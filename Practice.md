@@ -42,7 +42,7 @@ knowledge or thought in its subject. One or two
 references I have given. But had they been multiplied 
 there are some names that would have incessantly 
 recurred. And especially those of Rothe, Kähler, Seeberg 
-and Grutzmacher without whom these pages would have 
+and Grutzmacher---without whom these pages would have 
 been lean indeed. In certain moods, as one traces back 
 the origin of some lines of thought or even phrases of 
 speech, the words come to mind, "What have I that I 

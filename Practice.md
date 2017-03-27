@@ -27,8 +27,7 @@ must chiefly court the student. The merchantmen of
 these goodly pearls must be seekers ; and without 
 even divers they cannot be had. 
 
-<span class="pagenum"><a id="Page_viii">viii</a></span>
-If it came to expressing obligations the foot of each 
+[]{#page_viii}If it came to expressing obligations the foot of each 
 page would bristle with notes and references. But 
 that also is foreign to the lecture form, and especially 
 to the form of lectures which made a certain effort to 
@@ -61,9 +60,7 @@ works are those of a more or less destructive school.
 For extremes are always easier to grasp and to sell. It 
 should also be added in fairness that many scholars of 
 the negative side possess the art of putting things; in 
-high contrast with the style of their deeper opponents, so
-<span class="pagenum"><a id="Page_xi">xi</a></span> 
-
+high contrast with the style of their deeper opponents, so[]{#page_xi}
 amorphous often both in matter and mode. The mis 
 fortune to the partially educated in this subject, who only 
 read English, is great ; especially as the popular impression 

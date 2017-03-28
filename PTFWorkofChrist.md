@@ -526,14 +526,10 @@ they read it what had been done for them, nor
 to whom they owed their lives. It is so with 
 the whole world. To-day it owes its existence, 
 in a way it but poorly understands, to the 
-
-CONTINUE HERE: https://archive.org/stream/workofchrist00forsuoft#page/12/mode/1up
-
-GOD'S SACRIFICE AND MAN'S 13 
-
+[13]{.pagenum}
 death and resurrection of Jesus Christ. That 
-is the permanent element in Christianity 
-the Cross and resurrection of Jesus Christ. And 
+is the permanent element in Christianity---the 
+Cross and resurrection of Jesus Christ. And 
 yet it is nothing to all them that pass by. 
 Under the feet of those travellers in Belgium 
 there had taken place one of those deeds that 
@@ -544,8 +540,8 @@ railway for some small grievance or other. It
 is useful to remember, when we are inclined to 
 grumble thus, what an amount of devotion to 
 duty goes to make it possible for us to travel as 
-safely as we do far more than can be acknow- 
-ledged by the payment of a wage. These 
+safely as we do---far more than can be acknowledged 
+by the payment of a wage. These 
 people were ploughing along in safety over one 
 of the railway staff lying in a living grave. I 
 say it is so with the whole civilised world. Its 
@@ -558,27 +554,23 @@ wrong. It was not due to organisation, or to
 work done from fear of punishment. Heroic 
 duty raised to martyrdom saved the whole 
 train. And the world's progress is saved to-day 
-because of a death and resurrection of which 
-
-
-
-14 THE DIFFERENCE BETWEEN 
-
+because of a death and resurrection of which
+[14]{.pagenum}
 it knows little and mostly cares to know less. 
-"Propter Jesum non qucerimus Jesum." The 
+"*Propter Jesum non qu[ae TK]rimus Jesum*." The 
 success of Christ hides Him. It is the death 
 of Christ that is the chief condition of modern 
 progress. It is not civilisation that keeps 
 civilisation safe and progressive. It is that 
-power which was in Jesus Christ and culmi- 
-nated in His death and resurrection. When 
+power which was in Jesus Christ and culminated 
+in His death and resurrection. When 
 people read the Bible, and get behind the 
 Bible, and that principle comes home to them, 
 it may sometimes be like the shock that those 
 travellers would receive when they read in the 
 newspaper of their risk and deliverance. 
 
-
+[&sect]{.section}
 
 3. Another point. And I am now coming on to 
 the difference. This man died for people who 
@@ -593,11 +585,7 @@ Perhaps you never have. You have believed it,
 of course, but it never came home to you and 
 gripped you as the stories of the kind I instance 
 do. You see the difference between Christ's 
-
-
-
-GOD'S SACRIFICE AND MAN'S 15 
-
+[15]{.pagenum}
 death and every case of human heroism. I am 
 moving to answer that question I put a moment 
 ago as to whether the development of the best 
@@ -616,8 +604,8 @@ created. Everybody thrills to that story I told
 you, and to every similar story. The power of 
 response is lying there in the human heart 
 ready it only needs to be touched. There is in 
-human nature a battery charged with admira- 
-tion for such things; you have only to put your 
+human nature a battery charged with admiration 
+for such things; you have only to put your 
 knuckle to it and out comes the spark. But 
 when we are dealing with the death of Christ 
 we are in another position. Christ's was a 
@@ -626,50 +614,42 @@ responding had to be created. We are all
 afraid of death, and rise to the man who delivers 
 us from it. But we are not afraid of that worse 
 thing than death from which Christ came to 
-
-
-
-16 THE DIFFERENCE BETWEEN 
-
+[16]{.pagenum}
 deliver us. Christ's death was not a case of 
 heroism simply, it was a case of redemption. 
 It acted upon dull and dead hearts. It was 
 a death which had to evoke a feeling not 
 only latent but paralysed, not only asleep but 
-dead. What does Paul say? " While we were 
-yet without strength, Christ died for us " 
-without power, without feeling, as the full 
+dead. What does Paul say? "While we were 
+yet without strength, Christ died for us"---without 
+power, without feeling, as the full 
 meaning is. 
 
-Let me illustrate. Take a poet like Words- 
-worth. When he began to publish his poetry 
+Let me illustrate. Take a poet like Wordsworth. 
+When he began to publish his poetry 
 he was received, just as Browning was received 
 later, with ridicule and contempt. The greatest 
 critic of the time began an article in the leading 
-critical organ of the day by saying, " This will 
+critical organ of the day by saying, "This will 
 never do." But it has done; and it has done for 
 Jeffrey's critical reputation. Lord Jeffrey wrote 
 himself down as one who was incapable of 
 gauging the future, however much he might 
 be capable of understanding the literature of 
-the past. Some of you may remember I 
-remember perfectly well the same kind of 
+the past. Some of you may remember---I 
+remember perfectly well---the same kind of 
 thing in the penny papers about Browning 
-when he was fighting for recognition. I re- 
-member, when I was a student, reading articles 
-in luminaries like The Standard which sneered 
-and jeered at Browning, just as smaller men to- 
-day would sneer at men of like originality. But 
-
-
-
-GOD'S SACRIFICE AND MAN'S 17 
-
+when he was fighting for recognition. I remember, 
+when I was a student, reading articles 
+in luminaries like *The Standard* which sneered 
+and jeered at Browning, just as smaller men to-day 
+would sneer at men of like originality. But 
+[17]{.pagenum}
 Wordsworth and Browning have conquered. I 
 take another case. Turner was assailed with 
 even more ridicule when he exposed his works 
-to the British public. What would have hap- 
-pened to Turner if Ruskin had not arisen to be 
+to the British public. What would have happened 
+to Turner if Ruskin had not arisen to be 
 his prophet I do not know. His pictures might 
 not even have been mouldering in the cellars of 
 the National Gallery. They might have been 
@@ -682,24 +662,18 @@ them when they appeared; they had to create
 the very power of understanding themselves. 
 A poet of less original genius, a great genius 
 but less of a genius, like Tennyson, comes along, 
-and he writes about the " May Queen " and 
-" The Northern Farmer," and all those simple, 
+and he writes about the "May Queen" and 
+"The Northern Farmer," and all those simple, 
 elementary things which immediately fetch the 
 handkerchiefs out. Now no doubt to do that 
 properly takes a certain amount of genius. But 
 it taps the prompt and fluent emotions; and the 
-misfortune is that kind of work is easily coun- 
-terfeited and abused by those who wish to 
+misfortune is that kind of work is easily counterfeited 
+and abused by those who wish to 
 exploit our feelings rather than exalt them. 
 It is a more easy kind of thing than was done 
-by those great geniuses I first named. Original 
-
-The Work of Christ. 3 
-
-
-
-18 THE DIFFERENCE BETWEEN 
-
+by those great geniuses I first named. Original
+[18]{.pagenum}
 poets like Wordsworth and Browning had to 
 create the taste for their work. 
 
@@ -723,17 +697,13 @@ sense of danger has to be created within him,
 so the violent action of the Spirit takes men by 
 force. The death of Christ must call up more 
 than a responsive feeling. It is not satisfied 
-with affecting our heart. That is mere impres- 
-sionism. It is very easy to impress an audience. 
+with affecting our heart. That is mere impressionism. 
+It is very easy to impress an audience. 
 Every preacher knows that there is nothing 
 more simple than to produce tears. You have 
 only to tell a certain number of stories about 
 dying children, lifeboats, fire eseapes, and so on, 
-
-
-
-GOD'S SACRIFICE AND MAN'S 19 
-
+[19]{.pagenum}
 and you can make people thrill. But the thrill 
 is neither here nor there. What is the thrill 
 going to end in? What is the meaning of the 
@@ -743,18 +713,18 @@ good, because it is sealing the springs of feeling
 and searing the power of the spiritual life. 
 
 What the work of Christ requires is the 
-tribute not of our admiration or even grati- 
-tude, not of our impressions or our thrills, but 
+tribute not of our admiration or even gratitude, 
+not of our impressions or our thrills, but 
 of ourselves and our shame. Now we are coming 
-to the crux of the matter the tribute of our 
+to the crux of the matter---the tribute of our 
 shame. That death had to make new men of 
 us. It had to turn us not from potential friends 
 to actual, but from enemies into friends. It 
 had not merely to touch a spring of slumbering 
 friendship. There was a new creation. The 
-love of God I quote Paul, who did understand 
-something of these things the love of God is 
-not merely evoked within us, it is " shed abroad 
+love of God---I quote Paul, who did understand 
+something of these things---the love of God is 
+not merely evoked within us, it is "shed abroad 
 in our hearts by the Holy Spirit which is given 
 to us." That is a very different thing from 
 simply having the reservoir of natural feeling 
@@ -762,16 +732,12 @@ tapped. The death of Christ had to do with
 our sin and not with our sluggishness. It had 
 to deal with our active hostility, and not simply 
 with the passive dullness of our hearts. Our 
-hostility that is what the easy-going people 
-
-
-
-20 THE DIFFERENCE BETWEEN 
-
+hostility---that is what the easy-going people
+[20]{.pagenum}
 cannot be brought to recognise. That is what 
 the shallow optimists, who think we can now 
 dispense with emphasis on the death of Christ, 
-feel themselves able to do to ignore the fact 
+feel themselves able to do---to ignore the fact 
 that the human heart is enmity against God, 
 against a God who makes demands upon it; 
 who goes so far as to make demands for 
@@ -779,15 +745,13 @@ the whole, the absolute obedience of self.
 Human nature puts its back up against that. 
 That is what Paul means when he speaks 
 about human nature, the natural man the 
-carnal man is a bad translation being enmity 
+carnal man is a bad translation---being enmity 
 against God. Man will cling to the last rag of 
 his self-respect. He does not part with that 
-when he thrills, admires, sympathises; but he 
-
-v does when he has to give up his whole self in 
+when he thrills, admires, sympathises; but he
+does when he has to give up his whole self in 
 the obedience of faith. How much self-respect 
-
-1 do you think Paul had left in him when he went 
+do you think Paul had left in him when he went 
 into Damascus? Christ, with the demand for 
 saving obedience, arouses antagonism in the 
 human heart. And so will the Church that 
@@ -795,22 +759,18 @@ is faithful to Him. You hear people of the
 type I have been speaking about saying, If 
 only the Church had been true to Christ's 
 message it would have done wonders for the 
-world. If only Christ were preached and prac- 
-tised in all His simplicity to the world, how fast 
-Christianity would spread. Would it? Do you 
-
-
-
-GOD'S SACRIFICE AND MAN'S 21 
-
+world. If only Christ were preached and practised 
+in all His simplicity to the world, how fast 
+Christianity would spread. Would it? Do you
+[21]{.pagenum}
 really find that the deeper you get into Christ 
 and the meaning of His demands Christianity 
 spreads faster in your heart? Is it not very 
 much the other way? When it comes to close 
 quarters you have actually to be got down and 
 broken, that the old man may be pulverised and 
-the new man created from the dust. There- 
-fore when we hear people abusing the Church 
+the new man created from the dust. Therefore 
+when we hear people abusing the Church 
 and its history the first thing we have to say 
 is, Yes, there is a great deal too much truth 
 in what you say, but there is also a greater 
@@ -819,32 +779,28 @@ is this. One reason why the Church has
 been so slow in its progress in mankind and 
 its effect on human history is because it has 
 been so faithful to Christ, so faithful to His 
-Cross. You have to subdue the most intrac- 
-table, difficult, and slow thing in the world 
-man's self-will. You cannot expect rapid suc- 
-cesses if you truly preach the Cross whereon 
+Cross. You have to subdue the most intractable, 
+difficult, and slow thing in the world---man's 
+self-will. You cannot expect rapid successes 
+if you truly preach the Cross whereon 
 Christ died, and which He surmounted not 
 simply by leaving it behind but by rising again, 
-and converting the very Cross into a power ,/ 
+and converting the very Cross into a power
 and glory. 
 
 Christ arouses antagonism in the human heart 
 and heroism does not. Everybody welcomes a 
 hero. The minority welcome Christ. We do 
 resent His absolute command. We do resent 
-
-
-
-22 THE DIFFERENCE BETWEEN 
-
+[22]{.pagenum}
 parting completely with ourselves. We do 
-"* resent Christ. 
+resent Christ. 
 
+[&sect]{.section} TK
 
 4. I go back to the word I spoke about the 
-
-tribute of our shame. The demand is unspar- 
-ing, remorseless. It is not simply that you 
+tribute of our shame. The demand is unsparing, 
+remorseless. It is not simply that you 
 are called on by God for a certain due, a 
 change, an amendment, but for the tribute of 
 yourself and your shame. When you heard 
@@ -858,25 +814,21 @@ in you as allowed you to be capable of thrilling
 to such heroisms. You felt, If I am capable of 
 thrilling to such things, I cannot be such a bad 
 sort. But when you felt the meaning of 
-Christ's death for you, did you ever pat your- 
-self on the back? The nearer the Cross came to 
+Christ's death for you, did you ever pat yourself 
+on the back? The nearer the Cross came to 
 you, the deeper it entered into you, were you 
 the more disposed to admire yourself? There is 
 no harm in your feeling pleased with yourself 
 because you were able to thrill to these human 
 heroisms; but if the impression Christ makes 
 upon you is to leave you more satisfied with 
-yourself, more proud of yourself for being able 
-
-
-
-GOD'S SACRIFICE AND MAN'S 23 
-
+yourself, more proud of yourself for being able
+[23]{.pagenum}
 to respond, He has to get a great deal nearer to 
-you yet. You need to be I will use a Scottish 
+you yet. You need to be---I will use a Scottish 
 phrase which old ministers used to apply to 
 a young minister when he had preached a 
-" thoughtful and interesting discourse " you 
+"thoughtful and interesting discourse"---you 
 need to be well shaken over the mouth of the 
 pit. The great deep classic cases of Christian 
 experience bear testimony to that. Christ and 
@@ -893,20 +845,16 @@ come too near to anything that does that for
 them. That is a frequent reason for not going 
 to church. 
 
+[&sect]{.section} TK
 
 5. Again, continuing. You would have gone a 
-
 long way to see this Belgian man. You would 
-have gazed upon him with something of rever- 
-ence, certainly with admiration. You would 
+have gazed upon him with something of reverence, 
+certainly with admiration. You would 
 have regarded him as one received back from 
 the dead. You think, If all men were like that, 
 the world would be heaven. Well, there are a 
-
-
-
-24 THE DIFFERENCE BETWEEN 
-
+[24]{.pagenum}
 great many more like that than we think, who 
 daily imperil their life for their duty. But 
 supposing every man and woman in the world 
@@ -915,11 +863,11 @@ them all together and took the total value of
 their moral heroism (if moral quantities were 
 capable of being summed like that), would you 
 then have the equivalent of the deed and death 
-of Christ? No, indeed ! If you took all the 
+of Christ? No, indeed! If you took all the 
 world, and made heroes of them all, and kept 
 them heroic all their lives, instead of only in one 
-act, still you would not get the value, the equiva- 
-lent, of Christ's sacrifice. It is not the sum of all 
+act, still you would not get the value, the equivalent, 
+of Christ's sacrifice. It is not the sum of all 
 heroisms. It would be more true to say it is the 
 source of all heroisms, the foundation of them 
 all. It is the underground something that makes 
@@ -935,11 +883,7 @@ Church and civilisation, even when civilisation
 is religious. We must attend more to those 
 great issues between our faith and our world. 
 Our religion has been too much a thing done 
-
-
-
-GOD'S SACRIFICE AND MANS 25 
-
+[25]{.pagenum}
 in a corner. We must adjust our religion to 
 the great currents and movements of the 
 world's history. And the great issue of the 
@@ -955,39 +899,35 @@ God; it was God in Christ reconciling man,
 and in a certain sense, reconciling Himself. My 
 point at this moment is that the Cross of Christ 
 was Christ reconciling man. It was not heroic 
-man dying for a beloved and honoured God; it^ 
+man dying for a beloved and honoured God; it
 was God in some form dying for man. God 
 dying for man. I am not afraid of that phrase; 
 I cannot do without it. God dying for man; 
-and for such men hostile, malignantly hostile 
+and for such men---hostile, malignantly hostile 
 men. That is a puzzling phrase where we read 
-in a gospel: " Greater love hath no man than 
+in a gospel: "Greater love hath no man than 
 this, that a man lay down his life for his 
 friends." There is more love in the phrase 
 of the epistle, that a man should lay down 
 his life for his bitter enemies. It is not so 
 heroic, so very divine, to die for our friends. 
 Kindness between the nice people is not so 
-
-
-
-26 THE DIFFERENCE BETWEEN 
-
-very divine fine and precious as it is. To die 
+[26]{.pagenum}
+very divine---fine and precious as it is. To die 
 for enemies that is the divine thing. Christ's 
-was grace that died for such for malignant 
+was grace that died for such---for malignant 
 enemies. There is more in God than love. 
 There is all that we mean by His holy grace. 
-Truly, " God is love." Yes, but the kind of love 
+Truly, "God is love." Yes, but the kind of love 
 which you must interpret by the whole of 
 the New Testament. When John said that, did 
-he mean that God was simply the consum- 
-mation of human affection? He knew that he 
+he mean that God was simply the consummation 
+of human affection? He knew that he 
 was dealing with a holy, gracious God, a God 
 who loved His enemies and redeemed them. 
 Read with extreme care 1 John iv. 10. 
 
-
+[&sect]{.section} TK
 
 6. Let me gather up the points of difference 
 which I have been indicating. 
@@ -995,16 +935,17 @@ which I have been indicating.
 First, that Belgian hero did not act from love 
 so much as from duty. Secondly, he died only 
 in one act, not in his whole life, dying daily. 
-There have been men capable of acts of sacri- 
-fice like this hero; loose-living men who, after 
+There have been men capable of acts of sacrifice 
+like this hero; loose-living men who, after 
 a heroism, were quite capable of returning to 
-their looseness of life heroes of the Bret Harte 
+their looseness of life---heroes of the Bret Harte 
 type. There have been many valiant, fearless 
 things done on the battlefield by men who in 
 the face of bullets never flinched, never turned 
 a hair; and when they came home they could 
 
 
+CONTINUE HERE https://archive.org/stream/workofchrist00forsuoft#page/27/mode/1up
 
 GOD'S SACRIFICE AND MAN'S 27 
 
@@ -1386,7 +1327,7 @@ inspiration. For instance, a preacher in the
 North, now dead, was preaching against the 
 Higher Criticism and its slicing up of the 
 Bible, and he took his text from Nehemiah, 
-" He cut it with a penknife " ! That is all very 
+" He cut it with a penknife "! That is all very 
 well, perhaps, for a motto, but for a text it 
 is rather a liberty. It is not fair to the Bible 
 to indulge in much of that at least. If I re- 
@@ -1639,7 +1580,7 @@ just the thing you want. Leave the dogma
 of it, you will say, to those who devote their 
 lives to dogma just as though theologians were 
 irrepressible people who take up theology as a 
-hobby and become the bores of the Church ! 
+hobby and become the bores of the Church! 
 It was not a hobby to the apostles. Why, 
 there are actually people of a similar stamp 
 who look upon missions as a hobby of the 
@@ -2497,7 +2438,7 @@ interpretation of life, and accept it as rationally,
 spiritually, and resignedly as you best can. 
 Accept His principle. Die to live. But what a 
 poor use of Christ to accept His interpretation 
-of life, as if He were a mere spiritual Goethe ! 
+of life, as if He were a mere spiritual Goethe! 
 That is a very attenuated Christ compared with 
 the Christ that is offered to us in the New 
 Testament. That is not the eternal Son of God 
@@ -2665,7 +2606,7 @@ enough of these incorrigible and obtrusive
 theologians who will not let us rest with the 
 love of God but must go on talking about things 
 that are so remote and professional as His 
-holiness ! " All that has to be changed. We 
+holiness! " All that has to be changed. We 
 have to stir the interest of our congrega- 
 tions as much with the holiness of God as 
 the Church was stirred first with the justice 
@@ -2924,7 +2865,7 @@ belonged to the race as a whole. I will even
 use for convenience' sake the word totality. 
 (People turn up their noses at a word like that, 
 and they say it smells of philosophy. Well, 
-philosophy has not a bad smell ! You cannot 
+philosophy has not a bad smell! You cannot 
 have a proper theology unless you have a 
 
 
@@ -3071,7 +3012,7 @@ no objective atonement? It is a question worth
 deep attention. A great many people say 
 Christianity wrecks chiefly on the idea of ob- 
 jective atonement. How cheap the objection is 
-in many cases, how easy and common it is ! If 
+in many cases, how easy and common it is! If 
 you find somebody who is making it his mission 
 in life to pull to pieces the venerable theology of 
 the Catholic Church, and show how poor a thing 
@@ -3733,10 +3674,10 @@ to be dealt with. Is the law of God more loose
 than the law of society? Can it be taken liber- 
 ties with, played with, and put aside at the 
 impulse even of love? How little we should 
-come to think of God's love if that were possible ! 
+come to think of God's love if that were possible! 
 How essential the holiness of that love is to 
 our respect for it and our faith in its unchange- 
-ableness ! If God's love were not essentially 
+ableness! If God's love were not essentially 
 holy love, in course of time mankind would 
 cease to respect it, and consequently to trust 
 it. We need not a fond love, but a love we 
@@ -5460,7 +5401,7 @@ and that God has simply put judgment on
 one side and has not exercised it, that cannot 
 be the true grace of God. Surely the grace of 
 God cannot stultify our human conscience like 
-that ! So we are haunted by mistrust, unless 
+that! So we are haunted by mistrust, unless 
 conscience be drowned in a haze of heart. We 
 
 
@@ -5509,7 +5450,7 @@ severity of conscience becomes the certainty of
 salvation. 
 
 
-But, changeless in judgment ! Does that mean 
+But, changeless in judgment! Does that mean 
 
 exacting the uttermost farthing of penalty, of 
 suffering? Does it mean that in the hour of 
@@ -6986,7 +6927,7 @@ we must have so tasted the new life that
 nothing but the strongest word possible is just 
 to it. 
 
-Christ our New Creator ! He was not simply 
+Christ our New Creator! He was not simply 
 a new departure in the history of ethical civilisa- 
 tion, by the introduction of an exalted morality. 
 If that was what He came with, He brought much 

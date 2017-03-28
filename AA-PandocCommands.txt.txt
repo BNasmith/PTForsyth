@@ -1,10 +1,12 @@
+Step 0: A search and replace of " ; " with "; ", etc, can fix a lot of problems from the start. Same for " : ", " ! ", " ? ".
+
 Step 1: Scan the new page for italics, em-dashes, Greek letters, and section breaks.
 
 For italics, use *italics*. 
 
 For an em-dash write "---".
 
-Subsections in the text often begin with the character "§". Use [§]{.section}
+Subsections in the text often begin with the character "§". Use [§]{.section} NB: This character won't run through pandoc to conver to word. Check this out later.
 
 Step 2: Read the plain-text, look for OCR errors, and remove dashes in words split over lines and pages. 
 

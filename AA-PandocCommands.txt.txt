@@ -1,0 +1,18 @@
+Step 1: Scan the new page for italics, em-dashes, Greek letters, and section breaks.
+
+For italics, use *italics*. 
+
+For an em-dash write "---".
+
+Subsections in the text often begin with the character "§". Use [§]{.section}
+
+Step 2: Read the plain-text, look for OCR errors, and remove dashes in words split over lines and pages. 
+
+Leave each line of text on a separate line in the book, with a blank line between paragraphs. 
+
+If a word is split between lines with a dash, remove it and place that word on the line where it starts. Likewise, if a word is split on the pagebreak, put the full word on the page where it starts.
+
+Where the page breaks, say at the beginning of page 5, write [5]{.pagenum}.
+
+
+

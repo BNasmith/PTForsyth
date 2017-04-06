@@ -1,45 +1,12 @@
-\documentclass[12pt,a5paper,twoside,titlepage]{book}
-%a5paper is a nice small size for reading the pdf
-%The problem is that to have full justification, I will need to set draft mode to highlight problems (in document class options) then go through and mark with a \- all the places where I can break a word from line to another. This is a typesetting job for later.
+\documentclass[draft]{ptfdoc}
 
-%A5paper margins:
-\usepackage[top=1in, bottom=1.5in, outer=1in, inner=1in, heightrounded, marginparwidth=0.3in, marginparsep=0.15in]{geometry}
-
-%A6paper margins
-%\usepackage[top=2cm, bottom=2cm, outer=2cm, inner=1cm, heightrounded, marginparwidth=1cm, marginparsep=0.5cm]{geometry}
-
-% Note that I have used CTRL-R to replace my \marginpar{ text with a centered margin paragraph at a smaller font size. 
-
-%These packages are for the font
-\usepackage{palatino} 
-%\usepackage{bookman}
-%\usepackage{helvet}
-%\usepackage{times}
-
-%\special{papersize=210mm,297mm}
-\usepackage[utf8]{inputenc}
 \author{Peter Taylor Forsyth} 
 \title{The Work of Christ}
-%\publisher{Hodder and Stoughton}
 \date{1910}
-% Options are "plain", "empty", "headings", "myheadings"
-\pagestyle{myheadings}
-
-
-
-\usepackage[english]{babel}
-\usepackage[autostyle, english = american]{csquotes}
-\MakeOuterQuote{"}
-
-%\raggedright
-
-
-\makeindex
 
 \begin{document}
 
 \frontmatter
-
 
 %TITLE PAGE
 \begin{titlepage}
@@ -54,13 +21,6 @@ By \\
 {\small TORONTO: THE WESTMINSTER COMPANY LIMITED \par}
 1910
 \end{titlepage}
-
-%\maketitle
-%PRINCIPAL OF HACKNEY COLLEGE, HAMPSTEAD 
-
-%LONDON: HODDER AND STOUGHTON 
-
-%TORONTO: THE WESTMINSTER COMPANY LIMITED 
 
 
 \chapter{Preface} 
@@ -114,14 +74,14 @@ theme could only be written from behind the
 veil with the most precious blood that ever 
 flowed in human veins. 
 
-\begin{center}
+\subsection*{
 \noindent\rule{4cm}{0.4pt}
-\end{center}
+}
 
 We are in a time when a spirituality without 
 positive content seems attractive to many minds. 
 And the numbers may grow of those favouring 
-\marginpar{\centering \footnotesize vii}
+\marginpar{vii}
 an undogmatic Christianity which is without 
 apostolic or evangelical substance, but cultivates 
 a certain emulsion of sympathetic mysticism, 
@@ -151,7 +111,7 @@ from whose midst John wrote them down.
 Herein is love, not in affection but in propitiation 
 (1 John iv. 10). Would Paul ever 
 have written 1 Cor. xiii. if it had been revealed 
-\marginpar{\centering \footnotesize viii}
+\marginpar{viii}
 to him that it was going to be turned against 
 Rom. iii. 25? And what would his language 
 have been to those who abused that chapter 
@@ -181,7 +141,7 @@ and throws its life and its Lord away when it
 says, "Be beautifully spiritual and believe as 
 you like," or "Do blessed good and think as you 
 please." 
-\marginpar{\centering \footnotesize ix}
+\marginpar{ix}
 There is a timely saying of that searching 
 Christian genius Kierkegaard---the great and 
 melancholy Dane in whom Hamlet was mastered 
@@ -216,9 +176,9 @@ society to the kingdom of God.
 
 \mainmatter
 
-\chapter{The Difference Between God's Sacrifice and Man's}
+\chapter{The Difference Between God's Sacrifice and Man's} 
 \markboth{The Difference Between}{God's Sacrifice and Man's} 
-%\marginpar{\centering \footnotesize 3}  
+%\marginpar{3}  
 
 
 
@@ -246,7 +206,7 @@ moment is due to the fact that edification has
 been pursued to the neglect of instruction. We 
 have been a little too prone to dwell upon the 
 simple side of the gospel. All our capital is in
-\marginpar{\centering \footnotesize 4}
+\marginpar{4}
 small circulation. We have not put by a reserve, 
 as it were. And therefore the simplicity 
 itself has become unsettled and ineffectual, confused 
@@ -277,7 +237,7 @@ It is impossible not to observe at the
 present day that the Church is under a cloud. 
 You cannot take any division of it, in any 
 country of the world, without feeling that that 
-\marginpar{\centering \footnotesize 5}
+\marginpar{5}
 is so. Therefore I will begin by making quite a 
 bold statement; and I should be quite prepared, 
 given time and opportunity, to devote a whole 
@@ -306,7 +266,7 @@ quarters. And that does not mean only the
 external authority of what you might call a 
 statutory Church, a great institutional Church, 
 a great organised Church like Rome, for example.
-\marginpar{\centering \footnotesize 6}
+\marginpar{6}
 It means much more than that. It 
 means that the authority of the whole Church is 
 weakened in respect of the inward and spiritual 
@@ -332,14 +292,14 @@ Spiritual authority, especially that of the
 Church, is for the time being at a great 
 discount.
 
-\begin{center}
+\subsection*{
 \S
-\end{center}
+}
 
 The Church is valuable as the organ of 
 Christian grace, and truth, and power. But 
 what do we find offered us in place of the 
-\marginpar{\centering \footnotesize 7}
+\marginpar{7}
 Church? Those who attack the Church most 
 seriously, and disbelieve in it most thoroughly, 
 are not proposing simply to level the Church 
@@ -367,7 +327,7 @@ Anarchy itself without associations for the
 purpose. So that the very existence of these 
 rival organisations is a confession of the one 
 fundamental principle of the Church, namely, 
-\marginpar{\centering \footnotesize 8}
+\marginpar{8}
 that the human ideal, that religion in the 
 true sense of the word, cannot do without a 
 social habitation. They put in their own way 
@@ -396,7 +356,7 @@ gather most of them under one head. In contrast
 with the Church the various social forms 
 that are offered to us to-day would build society 
 upon a natural basis, the basis of natural 
-brotherhood, natural humanity, natural goodness\marginpar{\centering \footnotesize 9}---on human nature. And the issue between 
+brotherhood, natural humanity, natural goodness\marginpar{9}---on human nature. And the issue between 
 the Church and the chief rivals of the Church 
 is an issue between society upon this natural 
 basis, and society upon a supernatural basis. 
@@ -424,7 +384,7 @@ to believe that Christianity is just human
 nature at its best? That is the most powerful 
 and dangerous plea that is put forward just 
 now in challenge of our Christian position 
-\marginpar{\centering \footnotesize 10}
+\marginpar{10}
 and Church. Is the Kingdom of God just our 
 natural spirituality and altruism developed? 
 Is it just the spirit of religion or self-sacrifice, 
@@ -453,9 +413,9 @@ from Christ's great work?" That is the
 question to which I desire to attract your 
 attention to-day. How does man's best work 
 differ from Christ's great work? 
-\marginpar{\centering \footnotesize 11}
+\marginpar{11}
 
-\begin{center} \S \end{center}
+\subsection*{ \S }
 
 Let me begin with a story which was reported 
 in the Belgian papers some years ago. 
@@ -481,12 +441,12 @@ indefinitely. I offer you certain reflections,
 first, on some of its analogies with Christ's 
 work, and secondly, on some of its differences. 
 
-\begin{center} \S \end{center} 
+\subsection*{ \S } 
 
 1. This man, in a very true sense, died and 
 rose again. His soul went through what he 
 would have gone through if he had never risen 
-\marginpar{\centering \footnotesize 12}
+\marginpar{12}
 from the track. He gave himself; and that is 
 all a man can give at last. His deed had the 
 moral value which it would have had if he had 
@@ -508,7 +468,7 @@ God unto salvation. These moral deaths and
 resurrections are what make men of us. "In 
 deaths oft." That is the first point. 
 
-\begin{center} \S \end{center} 
+\subsection*{ \S } 
 
 2. The second point is this. Not one of the 
 passengers in either of those trains knew until 
@@ -516,7 +476,7 @@ they read it what had been done for them, nor
 to whom they owed their lives. It is so with 
 the whole world. To-day it owes its existence, 
 in a way it but poorly understands, to the 
-\marginpar{\centering \footnotesize 13}
+\marginpar{13}
 death and resurrection of Jesus Christ. That 
 is the permanent element in Christianity---the 
 Cross and resurrection of Jesus Christ. And 
@@ -545,7 +505,7 @@ work done from fear of punishment. Heroic
 duty raised to martyrdom saved the whole 
 train. And the world's progress is saved to-day 
 because of a death and resurrection of which
-\marginpar{\centering \footnotesize 14}
+\marginpar{14}
 it knows little and mostly cares to know less. 
 "\textit{Propter Jesum non qu{\ae}rimus Jesum}." The 
 success of Christ hides Him. It is the death 
@@ -560,7 +520,7 @@ it may sometimes be like the shock that those
 travellers would receive when they read in the 
 newspaper of their risk and deliverance. 
 
-\begin{center} \S \end{center}
+\subsection*{ \S }
 
 3. Another point. And I am now coming on to 
 the difference. This man died for people who 
@@ -575,7 +535,7 @@ Perhaps you never have. You have believed it,
 of course, but it never came home to you and 
 gripped you as the stories of the kind I instance 
 do. You see the difference between Christ's 
-\marginpar{\centering \footnotesize 15}
+\marginpar{15}
 death and every case of human heroism. I am 
 moving to answer that question I put a moment 
 ago as to whether the development of the best 
@@ -604,7 +564,7 @@ responding had to be created. We are all
 afraid of death, and rise to the man who delivers 
 us from it. But we are not afraid of that worse 
 thing than death from which Christ came to 
-\marginpar{\centering \footnotesize 16}
+\marginpar{16}
 deliver us. Christ's death was not a case of 
 heroism simply, it was a case of redemption. 
 It acted upon dull and dead hearts. It was 
@@ -634,7 +594,7 @@ when I was a student, reading articles
 in luminaries like \textit{The Standard} which sneered 
 and jeered at Browning, just as smaller men to-day 
 would sneer at men of like originality. But 
-\marginpar{\centering \footnotesize 17}
+\marginpar{17}
 Wordsworth and Browning have conquered. I 
 take another case. Turner was assailed with 
 even more ridicule when he exposed his works 
@@ -663,7 +623,7 @@ and abused by those who wish to
 exploit our feelings rather than exalt them. 
 It is a more easy kind of thing than was done 
 by those great geniuses I first named. Original
-\marginpar{\centering \footnotesize 18}
+\marginpar{18}
 poets like Wordsworth and Browning had to 
 create the taste for their work. 
 
@@ -693,7 +653,7 @@ Every preacher knows that there is nothing
 more simple than to produce tears. You have 
 only to tell a certain number of stories about 
 dying children, lifeboats, fire eseapes, and so on, 
-\marginpar{\centering \footnotesize 19}
+\marginpar{19}
 and you can make people thrill. But the thrill 
 is neither here nor there. What is the thrill 
 going to end in? What is the meaning of the 
@@ -723,7 +683,7 @@ our sin and not with our sluggishness. It had
 to deal with our active hostility, and not simply 
 with the passive dullness of our hearts. Our 
 hostility---that is what the easy-going people
-\marginpar{\centering \footnotesize 20}
+\marginpar{20}
 cannot be brought to recognise. That is what 
 the shallow optimists, who think we can now 
 dispense with emphasis on the death of Christ, 
@@ -752,7 +712,7 @@ message it would have done wonders for the
 world. If only Christ were preached and practised 
 in all His simplicity to the world, how fast 
 Christianity would spread. Would it? Do you
-\marginpar{\centering \footnotesize 21}
+\marginpar{21}
 really find that the deeper you get into Christ 
 and the meaning of His demands Christianity 
 spreads faster in your heart? Is it not very 
@@ -782,11 +742,11 @@ Christ arouses antagonism in the human heart
 and heroism does not. Everybody welcomes a 
 hero. The minority welcome Christ. We do 
 resent His absolute command. We do resent 
-\marginpar{\centering \footnotesize 22}
+\marginpar{22}
 parting completely with ourselves. We do 
 resent Christ. 
 
-\begin{center} \S \end{center} 
+\subsection*{ \S } 
 
 4. I go back to the word I spoke about the 
 tribute of our shame. The demand is unsparing, 
@@ -813,7 +773,7 @@ because you were able to thrill to these human
 heroisms; but if the impression Christ makes 
 upon you is to leave you more satisfied with 
 yourself, more proud of yourself for being able
-\marginpar{\centering \footnotesize 23}
+\marginpar{23}
 to respond, He has to get a great deal nearer to 
 you yet. You need to be---I will use a Scottish 
 phrase which old ministers used to apply to 
@@ -835,7 +795,7 @@ come too near to anything that does that for
 them. That is a frequent reason for not going 
 to church. 
 
-\begin{center} \S \end{center} 
+\subsection*{ \S } 
 
 5. Again, continuing. You would have gone a 
 long way to see this Belgian man. You would 
@@ -844,7 +804,7 @@ certainly with admiration. You would
 have regarded him as one received back from 
 the dead. You think, If all men were like that, 
 the world would be heaven. Well, there are a 
-\marginpar{\centering \footnotesize 24}
+\marginpar{24}
 great many more like that than we think, who 
 daily imperil their life for their duty. But 
 supposing every man and woman in the world 
@@ -873,7 +833,7 @@ Church and civilisation, even when civilisation
 is religious. We must attend more to those 
 great issues between our faith and our world. 
 Our religion has been too much a thing done 
-\marginpar{\centering \footnotesize 25}
+\marginpar{25}
 in a corner. We must adjust our religion to 
 the great currents and movements of the 
 world's history. And the great issue of the 
@@ -902,7 +862,7 @@ of the epistle, that a man should lay down
 his life for his bitter enemies. It is not so 
 heroic, so very divine, to die for our friends. 
 Kindness between the nice people is not so 
-\marginpar{\centering \footnotesize 26}
+\marginpar{26}
 very divine---fine and precious as it is. To die 
 for enemies that is the divine thing. Christ's 
 was grace that died for such---for malignant 
@@ -917,7 +877,7 @@ was dealing with a holy, gracious God, a God
 who loved His enemies and redeemed them. 
 Read with extreme care 1 John iv. 10. 
 
-\begin{center} \S \end{center}
+\subsection*{ \S }
 
 6. Let me gather up the points of difference 
 which I have been indicating. 
@@ -933,7 +893,7 @@ type. There have been many valiant, fearless
 things done on the battlefield by men who in 
 the face of bullets never flinched, never turned 
 a hair; and when they came home they could 
-\marginpar{\centering \footnotesize 27}
+\marginpar{27}
 not stand against a breath of ridicule, they 
 could not stand against a little temptation, and 
 were soon wallowing in the mire. One act of 
@@ -965,7 +925,7 @@ the love of Christ. Christ died for people who
 not only did not know Him, but who hated and 
 despised Him. He died, not for a trainful of 
 people, but for the whole organic world of
-\marginpar{\centering \footnotesize 28}
+\marginpar{28}
 people. It was an infinite death, that of His, 
 in its range and in its power. It was death 
 for enemies more bitter than anything that 
@@ -985,7 +945,7 @@ the Holy Ghost, the effect may just be the
 other way. It is judgment. It is a death unto 
 death. 
 
-\begin{center} \S \end{center}
+\subsection*{ \S }
 
 I conclude by saying what I have often said, 
 and what often needs saying, that it is not 
@@ -996,7 +956,7 @@ If people felt that every time they heard the
 gospel they were either better or worse for it, 
 they would be more careful about hearing. 
 They would not go so often, possibly; better they 
-\marginpar{\centering \footnotesize 29}
+\marginpar{29}
 should not, perhaps. I am not speaking about 
 hearing of sermons. That is neither here nor 
 there. A man may hear sermons and be neither 
@@ -1025,7 +985,7 @@ Because they have not been in that country.
 There is no experience for it to stir and develop. 
 The Cross of Christ, the infinite wonder of it---we 
 have got to learn that. We have got to 
-\marginpar{\centering \footnotesize 30}
+\marginpar{30}
 learn the deep meaning of that by having been 
 there, by the evangelical experience whose lack 
 is the cause of all the religious vagrancy of the 
@@ -1039,7 +999,7 @@ out the Kingdom of God.
 \chapter{The Great Sacrificial Work is to Reconcile} 
 \markboth{The Great Sacrifical Work}{Is to Reconcile}
 %\chaptermark{The Great Sacrificial Work}
-%\marginpar{\centering \footnotesize 33}
+%\marginpar{33}
 
 %II 
 
@@ -1048,10 +1008,10 @@ out the Kingdom of God.
 %THE GREAT SACRIFICIAL WORK IS TO 
 %RECONCILE 
 
-\begin{center}
+\subsection*{
 Corinthians v.14--vi.2; Romans v.1--11; Colossians i.10--29;
 Ephesians ii.16. 
-\end{center}
+}
 
 
 \textsc{The} great need of the religious world to-day 
@@ -1069,7 +1029,7 @@ of the Reformation was the rediscovery of the
 Bible; and in a wider sense that is true to-day 
 also. We have, through the labours of more 
 than a century of the finest scholarship in all 
-\marginpar{\centering \footnotesize 34}
+\marginpar{34}
 the world, come to understand the Bible, in 
 its original sense, as it was never understood 
 before. These instructed scribes draw forth 
@@ -1098,7 +1058,7 @@ true in a somewhat different application. The
 Bible is still the best commentary upon itself. 
 I have always done much in my ministry in 
 the way of expounding the Bible, and I would 
-\marginpar{\centering \footnotesize 35}
+\marginpar{35}
 say to the younger ministers particularly who are 
 here, Do not be afraid of that manner of preaching. 
 I have known young ministers who were 
@@ -1127,7 +1087,7 @@ this it will not reduce your labour. It will really
 add what might amount to another sermon to 
 your weekly work. It is no use doing it if you 
 do it on the spur of the moment. If you just say 
-\marginpar{\centering \footnotesize 36}
+\marginpar{36}
 things that occur to your mind while you are 
 reading, you may say some banal, or some nonsensical 
 and fantastic things. It means careful 
@@ -1157,14 +1117,14 @@ very well, but in respect of the reading of the
 Scripture, they never heard it after that fashion; 
 they had never realised how vivid Scripture 
 could become. That simply results from paying 
-\marginpar{\centering \footnotesize 37}
+\marginpar{37}
 attention to the chapter with the best help. 
 You will find, I am sure, that your congregation 
 will welcome it.
 
-\begin{center}
+\subsection*{
 \S
-\end{center} 
+} 
 
 Supposing, then, we return to the Bible. 
 Supposing that the Church did---as I think it 
@@ -1176,9 +1136,9 @@ say? The second way asks, What can I make
 the Bible say? The third way asks, What does 
 God say in the Bible? 
 
-\begin{center}
+\subsection*{
 \S
-\end{center} 
+} 
 
 The first way is, with the aid of these magnificent 
 scholars, to discover the true historic 
@@ -1193,7 +1153,7 @@ Church had fallen into different hands, the
 whole of the Old Testament---the Prophets 
 amongst the rest---was read for proof passages 
 of theological doctrines. Now for books like 
-\marginpar{\centering \footnotesize 38}
+\marginpar{38}
 the Prophets that is absolutely fatal---fatal to 
 the books and to the Church; and fatal in the 
 long run to Christian truth. There is no greater 
@@ -1222,14 +1182,14 @@ actual situation and needs. That is another
 illustration of the principle that if you want 
 to work for immortality you must work in 
 the most relevant and faithful way amid the 
-\marginpar{\centering \footnotesize 39}
+\marginpar{39}
 circumstances round about you. The present 
 duty is the path to immortality. And so also 
 I might illustrate in respect to the Gospels. 
 
-\begin{center}
+\subsection*{
 \S
-\end{center}
+}
 
 The second way of reading the Bible is reading 
 it unto edification. That is to say, we read 
@@ -1254,7 +1214,7 @@ for the true use and understanding of
 the Bible by the Church at large. But I am 
 speaking now about its use by individuals, 
 and the danger I mean is that the suggestiveness
-\marginpar{\centering \footnotesize 40}
+\marginpar{40}
 may sometimes become fantastic. Some 
 preachers fail at times in that way. They get 
 to taking what are called fancy texts, texts 
@@ -1284,7 +1244,7 @@ to our spiritual egotism, or, what is equally bad,
 our fanciful subjectivity. 
 
 Now the grand value of the Bible is just the 
-\marginpar{\centering \footnotesize 41}
+\marginpar{41}
 other thing---its objectivity. The first thing is 
 not how I feel, but it is, How does God feel, 
 and what has God said or done for my soul? 
@@ -1313,7 +1273,7 @@ consequence of this passion for subjective and
 psychological analysis, for sentimental experience 
 and problem-preaching, is that when 
 a preacher begins preaching a real, objective, 
-\marginpar{\centering \footnotesize 42}
+\marginpar{42}
 New Testament gospel he has raised against 
 him what is now the most fatal accusation---even 
 within the Christian Church it has come 
@@ -1329,9 +1289,9 @@ of things has to be turned upside down, else
 the Church dries into the sand. There is no 
 message in it. 
 
-\begin{center}
+\subsection*{
 \S
-\end{center}
+}
 
 
 The third way of reading the Bible is reading 
@@ -1347,7 +1307,7 @@ in some godly sort forget ourselves, because we
 are so preoccupied with the mind of Christ. If 
 you want psychological analysis, analyse the 
 will, work, and purpose of Christ our Lord. I 
-\marginpar{\centering \footnotesize 43}
+\marginpar{43}
 read a fine sentence the other day which puts in 
 a condensed form what I have often preached 
 about as the symptom of the present age: 
@@ -1361,9 +1321,9 @@ religion from the man who is putting his own
 soul and race absolutely at the disposal of the 
 will of God in Jesus Christ. 
 
-\begin{center}
+\subsection*{
 \S
-\end{center}
+}
 
 All this is by way of preface to an attempt to 
 approach the New Testament and endeavour to 
@@ -1379,7 +1339,7 @@ and then the mistake he makes is that he
 wants to turn it into life directly, and to 
 politicise it, perhaps; whereas it works indirectly.
 The experience of many centuries, 
-\marginpar{\centering \footnotesize 44}
+\marginpar{44}
 on the other hand, says that Christian life 
 which does not grow out of Christian doctrine 
 becomes a failure. If not in individuals, it 
@@ -1409,7 +1369,7 @@ is worth having in theology, and it delivers
 you from the danger of obsession by theology 
 in a one-sided way. Remember, then, that the 
 truth we are dealing with is precious not as a 
-\marginpar{\centering \footnotesize 45}
+\marginpar{45}
 mere truth but as the means of expressing the 
 eternal act of God. The most important thing 
 in all the world, in the Bible or out of it, is 
@@ -1438,11 +1398,11 @@ you are theologians. And you cannot talk
 about Christ and His death in any thorough 
 way without talking about the holiness of 
 God. 
-\marginpar{\centering \footnotesize 46}
+\marginpar{46}
 
-\begin{center}
+\subsection*{
 \S 
-\end{center} 
+} 
 
 Christ and Him crucified, that is the historic 
 fact. But what do I mean when I say Christ 
@@ -1471,7 +1431,7 @@ not to faith; and there would not be so much
 argument amongst scholars as there is. The 
 Bible did not come into being in order to 
 provide future historians with a valuable document.
-\marginpar{\centering \footnotesize 47}
+\marginpar{47}
 It came for the purposes of interpretation. 
 Here is a sentence I came across once: 
 "The fact without the word is dumb; the word 
@@ -1501,7 +1461,7 @@ who look upon missions as a hobby of the
 Church, instead of their belonging to the 
 very being and fidelity of the Church. So 
 some people think theology is a hobby, and 
-\marginpar{\centering \footnotesize 48}
+\marginpar{48}
 that theologians are persons with an uncomfortable 
 preponderance of intellect, who are 
 trying to destroy the privileges secured by 
@@ -1531,11 +1491,11 @@ God meant by the Cross, that is everything.
 That is what the New Testament came to 
 give. That is the only kind of Cross that 
 can make or keep a Church.
-\marginpar{\centering \footnotesize 49}
+\marginpar{49}
 
-\begin{center}
+\subsection*{
 \S
-\end{center} 
+} 
 
 You will say, perhaps, "Cannot I go out and 
 preach my impressions of the Cross?" By all 
@@ -1564,7 +1524,7 @@ that will stand by us when we cannot feel any
 more; we want a Cross we can cling to, not 
 simply a subjective Cross. That is, to put the 
 thing in another way, what we want to-day is 
-\marginpar{\centering \footnotesize 50}
+\marginpar{50}
 an insight into the Cross. You see I am making 
 a distinction between impression and insight. 
 It is a useful part of the Church's work, for 
@@ -1593,16 +1553,16 @@ of mere interest and more of real insight.
 There are some people who talk as though, 
 when we speak of the Cross and the meaning of 
 the Cross, we were spinning something out 
-\marginpar{\centering \footnotesize 51}
+\marginpar{51}
 of the Cross. Paul was not spinning anything 
 out of the Cross. He was gazing into the Cross, 
 seeing what was really there with eyes that 
 had been unsealed and purged by the Holy 
 Ghost. 
 
-\begin{center}
+\subsection*{
 \S
-\end{center}
+}
 
 
 The doctrine of Christ's reconciliation, or His 
@@ -1627,7 +1587,7 @@ for a year or two. It is the flimsiest religiosity,
 and the most superficial reading of the Gospel, 
 that could talk like that. What does it mean 
 that an enormous proportion of the Gospel 
-\marginpar{\centering \footnotesize 52}
+\marginpar{52}
 story is occupied with the passion of Christ? 
 The centre of gravity, even in the Gospels, falls 
 upon the Cross of Christ and what was done 
@@ -1656,7 +1616,7 @@ scheme. He did force an issue, but it
 was not to illustrate a theology. It was to 
 establish the Kingdom of God, which could 
 be established in no other wise than as He 
-\marginpar{\centering \footnotesize 53}
+\marginpar{53}
 established it---upon the Cross. And He could 
 only teach the Cross when it had happened---which 
 He did through the Evangelists with the 
@@ -1686,13 +1646,13 @@ that, on this mighty \textit{act} of God's reconciliation.
 For this great act the interpretation was 
 given to Paul by the Holy Spirit. In this connection 
 read that great word in 1 Corinthians ii.; 
-\marginpar{\centering \footnotesize 54}
+\marginpar{54}
 that is the most valuable word in the New 
 Testament about the nature of apostolic inspiration. 
 
-\begin{center}
+\subsection*{
 \S
-\end{center}
+}
 
 What, then, did Paul mean by this reconciliation 
 which is the backbone of the Church? 
@@ -1719,7 +1679,7 @@ benefactor of the human race that succeeded in
 covering up our sin from God's sight? Who 
 was skilful enough to hoodwink the Almighty? 
 Who covered the sin? The all-seeing God 
-\marginpar{\centering \footnotesize 55}
+\marginpar{55}
 alone. There can therefore be no talk of hoodwinking. Atonement means the covering of 
 sin by something which God Himself had 
 provided, and therefore the covering of sin by
@@ -1749,7 +1709,7 @@ New Testament is right in saying so. Let us
 first find out what the Bible really says, and then 
 discuss whether the Bible is right or wrong. 
 
-\marginpar{\centering \footnotesize 56}
+\marginpar{56}
 The idea of atonement is the covering of sin 
 by something which God provided, and by the 
 use of which sin looses its accusing power, and 
@@ -1778,7 +1738,7 @@ is the first dilution. Then you go on with the
 hom{\oe}pathic treatment, and you say, "Oh yes, 
 all He did by Christ was to affect the world, and 
 impress it by showing it how much He loved it." 
-\marginpar{\centering \footnotesize 57}
+\marginpar{57}
 Now, would that reconcile anybody really in 
 need of it? When your child has flown into a 
 violent temper with you, and still worse, a sulky 
@@ -1807,7 +1767,7 @@ is a change of relation from alienation to communion---not
 simply to our peace and confidence, 
 but to reciprocal communion. The grand end of 
 reconciliation is communion. I am pressing 
-\marginpar{\centering \footnotesize 58}
+\marginpar{58}
 that hard. I am pressing it hard here by 
 saying that it is not enough that we should 
 worship God. It is not enough that we should 
@@ -1819,9 +1779,9 @@ habitual communion between His holy soul and
 ours can realise at last the end which God 
 achieved in Jesus Christ. 
 
-\begin{center}
+\subsection*{
 \S
-\end{center}
+}
 
 In this connection let me offer you two 
 cautions. First, take care that the direct fact 
@@ -1839,7 +1799,7 @@ upon justification until they lost sight of
 sanctification altogether. Then the great 
 pietistic movement had to arise in order to 
 redress the balance. Take care that the end, 
-\marginpar{\centering \footnotesize 59}
+\marginpar{59}
 reconciliation, is not hidden up by the means, 
 atonement. Justification, sanctification, reconciliation 
 and atonement are all equally inseparable 
@@ -1869,7 +1829,7 @@ own experience, or imagination, or thought;
 and they are oblivious of that which is 
 declared to have taken place within the experience 
 of God and of Christ. They are 
-\marginpar{\centering \footnotesize 60}
+\marginpar{60}
 oblivious and negligent of the essential things 
 that Christ did, and God in Christ. That is 
 not fair treatment of New Testament terms---to 
@@ -1890,9 +1850,9 @@ bound to come face to face with some phase
 of it or other. But I see my time is at an end 
 for to-day. 
 
-\begin{center}
+\subsection*{
 \S
-\end{center}
+}
 
 To-morrow I begin where I now leave off 
 and shall say something about this version of 
@@ -1902,7 +1862,7 @@ appeal it had for me when I came into contact
 with it first. I did feel that it seemed to give 
 a largeness to certain New Testament terms, 
 which I finally found was a largeness of latitude 
-\marginpar{\centering \footnotesize 61}
+\marginpar{61}
 only. If it did seem to give breadth it 
 did not give depth. And I close here by reminding 
 you of this---that while Christ and 
@@ -1931,7 +1891,7 @@ has spread around the world did not arise out
 of the liberal thinkers, the humanitarian philosophers 
 of the day, who were its worst enemies, 
 but with a few men Carey, Marshman, Ward,
-\marginpar{\centering \footnotesize 62} 
+\marginpar{62} 
 and the like---whose Calvinistic theology we 
 should now consider very narrow. But they did 
 have the root of the universal matter in them. 
@@ -1956,7 +1916,7 @@ the world.
 \markboth{Reconciliation}{Philosophic and Christian}
 %\chaptermark{Reconciliation}
 
-%\marginpar{\centering \footnotesize 66}
+%\marginpar{66}
 
 
 
@@ -1982,9 +1942,9 @@ one whole.
 \item It is final in its nature and effect.
 \end{enumerate}
 
-\begin{center}
+\subsection*{
 \S
-\end{center}
+}
 
 I was saying yesterday that two cautions 
 ought to be observed in connection with this 
@@ -1993,7 +1953,7 @@ hide up the idea of reconciliation by the idea of
 atonement; we should not obscure the end, or 
 the effect, by the great and indispensable means 
 to it. Second, at the other extreme we are to 
-\marginpar{\centering \footnotesize 66}
+\marginpar{66}
 beware of emptying reconciliation of atonement 
 altogether. Two very great thinkers arose last 
 century in Germany---where most of the thinking 
@@ -2022,7 +1982,7 @@ words consecrated to Christian experience,
 emptying them of their essential content, and 
 keeping them in a vapid use. That is done for 
 various reasons. It is sometimes done because 
-\marginpar{\centering \footnotesize 67}
+\marginpar{67}
 the words are too valuable to be parted with; 
 sometimes because a philosophic interpretation 
 seems to rescue them from the narrowness of 
@@ -2052,7 +2012,7 @@ to the process. Science, for example, which is
 the ground floor, not to say the basement, of 
 philosophy---science knows nothing about acts, 
 it only knows about processes. The chemist 
-\marginpar{\centering \footnotesize 68}
+\marginpar{68}
 knows only about processes. The biologist 
 knows only about processes. The psychologist 
 treats even acts as processes. But the theologian, 
@@ -2081,7 +2041,7 @@ But this Christian idea of reconciliation,
 the idea of communion with the living and 
 holy God, is replaced in philosophic theology by 
 another idea, that, namely, of adjustment to 
-\marginpar{\centering \footnotesize 69}
+\marginpar{69}
 rational Godhead, our adjustment to that 
 mighty idea, that mighty rational process, 
 which is moving on throughout the world. 
@@ -2110,7 +2070,7 @@ act. But such divine initiative is everything.
 It is in the mercy of our God that all our hopes 
 begin. Nothing that confuses that gets at the 
 root of our Christian reconciliation. Or, sometimes,
-\marginpar{\centering \footnotesize 70}
+\marginpar{70}
 those philosophic ideas are carried so far 
 that God's concern for the individual is ignored. 
 These great processes work according to general 
@@ -2139,7 +2099,7 @@ that practically is that religion comes to consist
 far too much in working up a certain frame of 
 feeling instead of dwelling upon the objective 
 reality of the act of God. Resignation is, 
-\marginpar{\centering \footnotesize 71}
+\marginpar{71}
 then, my act; but it is not resignation to 
 a sympathetic act of approach in God, but 
 only to His onward movement. But, as I 
@@ -2168,7 +2128,7 @@ into a mere theological orthodoxy,
 a very hard-shell kind of Christianity. It was 
 necessary that the great Pietistic movement 
 should arise and correct it. But this is itself a 
-\marginpar{\centering \footnotesize 72}
+\marginpar{72}
 danger in turn; and we have to rise up in the 
 name of the gospel, of the New Testament, and 
 demand a more objective religion; and we have 
@@ -2176,9 +2136,9 @@ to declare that if ever divine holiness is to be
 produced in man it can only be produced by 
 God's act through Christ in the Holy Spirit.   
 
-\begin{center}
+\subsection*{
 \S
-\end{center}
+}
 
 The philosophic kind of theology (which is 
 rather theosophy) often ends, you perceive, 
@@ -2200,7 +2160,7 @@ debased indeed when it turns to mere
 resignation. Of course, we have to practise 
 resignation. But Christianity is not the practice 
 of resignation. At least, that is not the
-\marginpar{\centering \footnotesize 73}
+\marginpar{73}
 meaning of reconciliation. When two friends 
 fall out and are reconciled, it does not simply 
 mean that one adjusts himself to the other. 
@@ -2229,7 +2189,7 @@ What you have to do in these circumstances
 is, by a great act of faith, to believe 
 that this is so and to immolate yourself, if 
 need be, for the benefit of this grand whole; 
-\marginpar{\centering \footnotesize 74}
+\marginpar{74}
 at any rate, accommodate yourself to its evolving 
 movement." 
 
@@ -2259,7 +2219,7 @@ Testament. That is not the eternal Son of God
 in whom God was reconciling the world unto 
 Himself. That is another Christ---from some 
 hasty points of view indeed a larger Christ; 
-\marginpar{\centering \footnotesize 75}
+\marginpar{75}
 for the philosophers have a larger Christ, apparently,
 one more cosmic. But it is a diluted 
 Christ, and one that cannot penetrate to the 
@@ -2268,9 +2228,9 @@ human personality, cannot reach our guilt and
 hell, and therefore cannot be the final Christ 
 of God. 
 
-\begin{center}
+\subsection*{
 \S
-\end{center}
+}
 
 Whether from the side of the philosophers, as 
 I have been showing, or from the side of certain 
@@ -2292,7 +2252,7 @@ person; yet we are persons both. There is that
 parity. Any reconciliation which only means 
 change on one side is not a real reconciliation 
 at all. A real, deep change of relation affects 
-\marginpar{\centering \footnotesize 76}
+\marginpar{76}
 both sides when we are dealing with persons. 
 That is not the case when we are dealing on 
 the one side with ideas, or one vast idea 
@@ -2325,7 +2285,7 @@ not between a failing person on the one hand
 and a perfect, imperturbable process on the 
 other. 
 
-\marginpar{\centering \footnotesize 77}
+\marginpar{77}
 The second thing is a corollary from the first, 
 and is that the reconciliation \textit{affects and alters} 
 \textit{both parties} and not only one party. There 
@@ -2352,15 +2312,15 @@ in the divine nature, the victory has been
 won. That is what I mean by using the 
 word "Final" at the close of the list. 
 
-\begin{center}
+\subsection*{
 \S
-\end{center}
+}
 
 I will expound these heads as I go along. Let 
 me begin almost at the foundation and say this. 
 Reconciliation has no moral meaning as between 
 finite and infinite---none apart from the 
-\marginpar{\centering \footnotesize 78}
+\marginpar{78}
 sense of guilt. The finished reconciliation, the 
 setting up of the New Covenant by Christ, 
 meant that human guilt was once for all robbed 
@@ -2389,7 +2349,7 @@ But we have now to take a step further, and we
 have to saturate our people in the years that are 
 to come as thoroughly with the idea of God's 
 \textit{holiness} as they have been saturated with the 
-\marginpar{\centering \footnotesize 79}
+\marginpar{79}
 idea of God's love. I have sometimes thought 
 when preaching that I saw a perceptible change 
 come over my audience when I turned from 
@@ -2418,7 +2378,7 @@ must make it. The problem is how Christ can
 be a revelation not of God's love simply, but 
 of God's holy love. Without a holy God there 
 would be no problem of atonement. It is the 
-\marginpar{\centering \footnotesize 80}
+\marginpar{80}
 holiness of God's love that necessitates the 
 atoning Cross. 
 
@@ -2448,7 +2408,7 @@ he had to be rediscovered. That was done by
 Augustine. Again he went under, and Luther 
 rediscovered him. And he is being rediscovered 
 again to-day. Augustine's rediscovery was this, 
-\marginpar{\centering \footnotesize 81}
+\marginpar{81}
 justification by grace alone; Luther's side of the 
 rediscovery was justification by faith alone---faith 
 in the Cross, that is to say, faith in grace. 
@@ -2474,13 +2434,13 @@ through the Spirit of a new life, an indiscerptible
 life in Jesus Christ. That is the grand 
 new thing in Christianity (2 Corinthians iii. 6). 
 
-\begin{center}
+\subsection*{
 \S
-\end{center}
+}
 
 Reconciliation, then, has no meaning apart 
 from a sense of guilt, that guilt which is involved 
-\marginpar{\centering \footnotesize 82} 
+\marginpar{82} 
 in our justification. I am going to try to 
 expound that before I am done. I want to note 
 here that it means not so much that God is reconciled,
@@ -2509,7 +2469,7 @@ Christ being made sin for us. You have thus
 three stages in this magnificent verse. God's 
 reconciliation rested upon this, that on His 
 Eternal Son, who knew no sin in His experience, 
-\marginpar{\centering \footnotesize 83}
+\marginpar{83}
 (although He knew more about sin than any 
 man who has ever lived), sin's judgment fell. 
 Him who knew no sin by experience, God made 
@@ -2538,7 +2498,7 @@ in feeling, so that holiness might be perfected in
 judgment, and we might become the righteousness 
 of God in Him; so that we might have 
 in God's sight righteousness by our living 
-\marginpar{\centering \footnotesize 84}
+\marginpar{84}
 union with Christ, righteousness which did 
 not belong to us actually, naturally, and 
 finally. Our righteousness is as little ours individually 
@@ -2568,7 +2528,7 @@ both God and man. It was not a case of destroying
 an unfortunate prejudice we had 
 against God. It was not a case of putting 
 right a misunderstanding we had of God. 
-\marginpar{\centering \footnotesize 85}
+\marginpar{85}
 "You are afraid of God," you hear easy people 
 say; "it is a great mistake to be afraid of 
 God. There is nothing to be afraid of. God is 
@@ -2598,7 +2558,7 @@ to the reconciled unity of "Himself "; and
 second, that He was not trying, not taking steps 
 to provide means of reconciliation, not opening 
 doors of reconciliation if we would only walk in 
-\marginpar{\centering \footnotesize 86}
+\marginpar{86}
 at them, not labouring toward reconciliation, 
 not (according to the unhappy phrase) waiting 
 to be gracious, but "God was in Christ reconciling," actually reconciling, finishing the work. 
@@ -2626,7 +2586,7 @@ use for convenience' sake the word totality.
 and they say it smells of philosophy. Well, 
 philosophy has not a bad smell! You cannot 
 have a proper theology unless you have a 
-\marginpar{\centering \footnotesize 87}
+\marginpar{87}
 philosophy. You cannot accurately express 
 the things that theology handles most deeply. 
 The misfortune of our ministry is that it comes 
@@ -2642,9 +2602,9 @@ Christ, as it were, put us into the eternal
 Church; the Holy Spirit teaches us how to 
 behave properly in the Church. 
 
-\begin{center}
+\subsection*{
 \S
-\end{center}
+}
 
 I go on to show that reconciliation has its 
 effect not upon man only, but upon God also. 
@@ -2658,7 +2618,7 @@ mischief in these matters. It is the thin,
 commonsense rationalists, orthodox or heterodox. 
 It is the people who put a pistol to your 
 head and say, "I am a plain man and I 
-\marginpar{\centering \footnotesize 88}
+\marginpar{88}
 want a plain yes or no," that cause so 
 much difficulty. Christ always refused to 
 answer with a pistol to His head. It was the 
@@ -2687,7 +2647,7 @@ God in the way some do, we suggest that
 there was some third party coming between us 
 and God, reconciling God on the one hand and 
 us on the other, like a daysman. That is one 
-\marginpar{\centering \footnotesize 89}
+\marginpar{89}
 great mischief that is done by the popular 
 theories of atonement. God can never be 
 regarded as the object of some third party's 
@@ -2716,7 +2676,7 @@ There is no mollification of God, no placation of
 God. Atonement was not the placating of God's 
 anger. Even in the old economy we are told, "I 
 have \textit{given} you the blood to make atonement." 
-\marginpar{\centering \footnotesize 90}
+\marginpar{90}
 Given! Did you ever see the force of it? "I 
 have given you the blood to make atonement. 
 This is an institution which I set up for you to 
@@ -2746,10 +2706,10 @@ discussion of the particular point, and especially
 of what is morally meant by the blood of 
 Christ. 
 
-\marginpar{\centering \footnotesize 91}
-\begin{center}
+\marginpar{91}
+\subsection*{
 \S
-\end{center}
+}
 
 But some one immediately asks, Is there then 
 no objective atonement? It is a question worth 
@@ -2778,7 +2738,7 @@ such language has ever been held, it has only
 been by sections of the Church, sections that 
 have gone wrong in the direction of unqualified 
 extremes. You have extravagancies, remember, 
-\marginpar{\centering \footnotesize 92}
+\marginpar{92}
 even in rational heresy. Has the Church on 
 the whole ever really forgotten that it is in 
 the mercy of God that all our hopes begin and 
@@ -2791,9 +2751,9 @@ get back a great deal more respect for it. But
 we do not live on the Church; we live on the 
 word of the gospel which is in the Bible. 
 
-\begin{center}
+\subsection*{
 \S
-\end{center}
+}
 
 What is the real objective element in the 
 Bible's gospel? What is the real objective 
@@ -2810,7 +2770,7 @@ was made to God, but by God. It was atonement
 made by God, not by man. When I use the 
 word objective, I do not mean objective to you or 
 to me. You are objective to me, and I to you. 
-\marginpar{\centering \footnotesize 93}
+\marginpar{93}
 That is not the idea. Let us learn to think on 
 the scale of the whole race. What is objective 
 to that? The deadly kind of subjectivity is 
@@ -2827,9 +2787,9 @@ made by man would be subjective, however
 much it might be made for man by his brother, 
 or by a representative of entire Humanity. 
 
-\begin{center}
+\subsection*{
 \S
-\end{center}
+}
   
 But we have a certain farther difficulty to 
 face here. If it was God that made the atonement---which 
@@ -2842,7 +2802,7 @@ subjective experience? God then says to each
 soul, "Be reconciled. See, I have put My anger 
 away." Can such attuning of Himself by God 
 have for its results anything more than individual 
-\marginpar{\centering \footnotesize 94}
+\marginpar{94}
 conversion? Now, conversion means 
 much, but it does not mean the whole of 
 Christianity. Reconciliation means the life-communion 
@@ -2872,7 +2832,7 @@ But, you say, you do not have the solidarity
 of the human race in the Old Testament. Well, 
 you do, and you do not. What you have face to 
 face with God in the Old Testament is a collective 
-\marginpar{\centering \footnotesize 95}
+\marginpar{95}
 nation, Israel. We shall never read the 
 Old Testament with true understanding until 
 we realise that. That is one of the great things 
@@ -2901,7 +2861,7 @@ Church became the prophecy and prefiguration
 of the unity of Humanity. It is through the 
 Church alone that the unity of Humanity can 
 be consummated, because it is possible only 
-\marginpar{\centering \footnotesize 96}
+\marginpar{96}
 through the gospel. And the preacher of this 
 gospel in the world is the collective Church. 
 
@@ -2933,7 +2893,7 @@ Cross of Christ.
 %JUDGMENT 
 
 
-%\marginpar{\centering \footnotesize 99}
+%\marginpar{99}
 \textsc{The} point at which I broke off yesterday
 was this. I was pointing out that 
 objective atonement is absolutely necessary. 
@@ -2953,7 +2913,7 @@ the race, and of its individuals by implication.
 
 We start to-day, then, from the position that 
 God made the atonement. This (we saw) suggests 
-\marginpar{\centering \footnotesize 100}
+\marginpar{100}
 a number of questions, not to say difficulties. 
 If God made the atonement, but reconciliation 
 meant no more than simply the moving and 
@@ -2983,7 +2943,7 @@ something really done from the depth of God
 Who is the action of the world, something eternally 
 changing the whole situation, and destiny, 
 and responsibility of our race. If God in Christ 
-\marginpar{\centering \footnotesize 101}
+\marginpar{101}
 simply said the most powerful word about His 
 goodwill, His placability, and His readiness to 
 forgive, that would destroy the permanence of 
@@ -3012,7 +2972,7 @@ when we have taken God's word for it in
 Christ that He does really love us, what 
 happens then? Why, as soon as the lesson 
 had been learnt, the work of Christ might be 
-\marginpar{\centering \footnotesize 102}
+\marginpar{102}
 left behind. There are a great many people 
 to-day who are Christian in a way, but have 
 very loose ideas as to what is involved centrally 
@@ -3042,10 +3002,10 @@ fades out of sight as we surmount it and leave
 it behind; and it does not retain a permanent 
 meaning and function at the centre of our faith. 
 
-\marginpar{\centering \footnotesize 103}
-\begin{center}
+\marginpar{103}
+\subsection*{
 \S
-\end{center}
+}
 
 I said that the work of Christ meant not only 
 an action on man, it meant an action on God. 
@@ -3075,7 +3035,7 @@ us, His gracious disposition towards us, was
 from His own holy eternity; that grace is of the 
 unchangeable. God in that respect had not to 
 be changed. Was He changed at all then? If 
-\marginpar{\centering \footnotesize 104}
+\marginpar{104}
 His heart was not changed, what remained in 
 Him to be changed, what was changed in 
 connection with the work of Christ? 
@@ -3105,7 +3065,7 @@ preachers are. We must take our way, God's
 way, and follow the subtle and searching Holy 
 Spirit as He leads and speaks in and through 
 the questions that arise to our earnest thought 
-\marginpar{\centering \footnotesize 104}
+\marginpar{104}
 concerning Christ's death. And the man in the 
 street must be left to the grace which has taken 
 us in from the street. 
@@ -3134,10 +3094,10 @@ beloved children. Let us fix our attention
 more closely upon this distinction of mood and 
 manner. 
 
-\marginpar{\centering \footnotesize 106}
-\begin{center}
+\marginpar{106}
+\subsection*{
 \S
-\end{center}
+}
 
 Take the parable of the prodigal for illustration. 
 There are those who say you have the 
@@ -3166,7 +3126,7 @@ allegories, because they exist for the sake of
 one central idea. While we may allow ourselves, 
 under the suggestion of the Holy Spirit, 
 to receive hints of edifying truth from this or 
-\marginpar{\centering \footnotesize 107}
+\marginpar{107}
 the other phase or detail of the parable, we 
 have chiefly to ask, What was it in the mind of 
 Christ for the sake of which He uttered this 
@@ -3195,7 +3155,7 @@ and at the root, therefore, of all His words.
 That Cross was deep embedded in the very structure 
 of Christ's Person, because nowadays you 
 cannot separate His Person from His vocation, 
-\marginpar{\centering \footnotesize 108}
+\marginpar{108}
 from the work He came to do, and the words He 
 came to speak. The Cross was not simply a 
 fate awaiting Christ in the future; it pervaded 
@@ -3224,7 +3184,7 @@ have not the mode of grace's action \textit{on a}
 \textit{world}. But, speaking of what you do have in 
 the parable, the father knows no change of 
 feeling towards the prodigal; yet could he go 
-\marginpar{\centering \footnotesize 109}
+\marginpar{109}
 on making no difference? Could he go on 
 treating the prodigal as though he never had 
 become a prodigal? He did not certainly when 
@@ -3250,13 +3210,13 @@ altered the relation. And this is what
 set up that world's reconciliation with Him. It 
 was set up by an act of crisis, of judgment. 
 
-\begin{center}
+\subsection*{
 \S
-\end{center}
+}
 
 Remember always we are dealing with the 
 world in the first instance and not with individuals. 
-\marginpar{\centering \footnotesize 110}
+\marginpar{110}
 I constantly come back upon that, for 
 the orthodox and their critics forget it alike. 
 I suppose the prodigal was a slave, I suppose 
@@ -3285,7 +3245,7 @@ amount in buying his brother's manumission
 from his master before a judge; and if it 
 was all done by mutual purpose and consent 
 of himself and his father; would not that act 
-\marginpar{\centering \footnotesize 111}
+\marginpar{111}
 be a great and effective thing, not so much 
 in producing repentance but in a harder matter---in 
 destroying a lien and making absolute certainty 
@@ -3315,7 +3275,7 @@ will show you later that it was not pain that
 was paid but holy obedience. 
 
 What the elder brother does in the supposition
-\marginpar{\centering \footnotesize 112}
+\marginpar{112}
 I have made is twofold. First, he secures 
 the liberation, he deals with the equitable conditions 
 of the release. Secondly, he also acts upon 
@@ -3344,7 +3304,7 @@ His own holiness. He could will nothing against
 His holy nature, and He could not abolish the 
 judgment bound up with it. Nothing in the 
 compass of the divine nature could enable Him 
-\marginpar{\centering \footnotesize 113}
+\marginpar{113}
 to abolish a moral law, the law of holiness. That 
 would be tampering with His own soul. It had 
 to be dealt with. Is the law of God more loose 
@@ -3370,14 +3330,14 @@ operation, so far as abrogation goes, as was
 the law of the far country to the father of 
 the prodigal. 
 
-\begin{center}
+\subsection*{
 \S
-\end{center}
+}
 
 What was there in the work of Christ which 
 went beyond a mere impressive declaration of a 
 God who could not help being gracious, but fell 
-\marginpar{\centering \footnotesize 114}
+\marginpar{114}
 on the prodigal's neck without more ado? It 
 was solidary judgment. I am urging that the 
 difficulty we have in answering that question 
@@ -3405,7 +3365,7 @@ with no atonement, no solidary judgment of sin,
 you reduce reconciliation not only to sentiment 
 but to a piecemeal series of individual repentances 
 and conversions, leaving it a problem 
-\marginpar{\centering \footnotesize 115}
+\marginpar{115}
 whether the race as a whole will be saved at 
 last. For the universality of Christianity (so 
 dear to Broad Church) you must have that foregone 
@@ -3435,7 +3395,7 @@ instance directed upon the world, but directed
 upon the world in such a way that it should be 
 taken home in every individual experience. 
 Mark the two words, "the world" and "whosoever." 
-\marginpar{\centering \footnotesize 116}
+\marginpar{116}
 Dwell upon the contrast. God loved 
 not this or that individual, or group of individuals, 
 only. "God so loved the world" that 
@@ -3464,7 +3424,7 @@ What we are tempted to think of in our common
 version of Christianity is a mass of people, great 
 or small, a mass of individuals, each one of 
 whom makes his own terms with God and gets 
-\marginpar{\centering \footnotesize 117}
+\marginpar{117}
 discharge of his sin. It is salvation by private 
 bargain. In conversion every individual makes 
 his own peace with God through Jesus Christ, 
@@ -3493,7 +3453,7 @@ way in a particular situation. God is
 a thinking God, let us say. He has the attribute 
 of thought. Does that mean that the 
 attribute of thought could be taken away, 
-\marginpar{\centering \footnotesize 118}
+\marginpar{118}
 that God could divest Himself of it? No. The 
 thought of God is simply God thinking. So 
 also the love of God is not an attribute of 
@@ -3514,9 +3474,9 @@ His forgiveness. So also in Isaiah, "A just God
 and a Saviour." There can therefore be no strife 
 of attributes. 
 
-\begin{center}
+\subsection*{
 \S
-\end{center}
+}
 
 What, then, does it mean when we hear about 
 the anger of God being turned away? To begin 
@@ -3526,7 +3486,7 @@ feeling, more than anger as an affection. The
 anger of God in the Bible means much rather 
 the judgment of God in the reaction of His 
 moral and spiritual order. The judgment of God 
-\marginpar{\centering \footnotesize 119}
+\marginpar{119}
 is perfectly compatible with His continued love, 
 just as a father's punishment is perfectly compatible 
 with his love for his children. The 
@@ -3538,9 +3498,9 @@ the most meaning out of it when we think of it
 as the judgment of God, the exalted, inflexible 
 judgment of God. 
 
-\begin{center}
+\subsection*{
 \S
-\end{center}
+}
 
 Taking a step further, it is judgment on the 
 world. It seems at first sight as though it 
@@ -3557,7 +3517,7 @@ of a race or of a Church. Salvation is personal,
 but it is not individual. (There is another distinction for you, if you have come in off the 
 street.) It is personal in its appropriation but 
 collective in its nature. What did the Reformation stand for? Not for religious individualism. 
-\marginpar{\centering \footnotesize 120}
+\marginpar{120}
 But I hear some one asking in the back of his 
 mind, Was not the Reformation the charter of 
 private judgment and individual independence? 
@@ -3587,7 +3547,7 @@ either way. The greatest egoist and self-seeker
 is a member of the world. He could not indulge 
 his egotism if it were not for the society in the 
 midst of which he lives and into which he is 
-\marginpar{\centering \footnotesize 121}
+\marginpar{121}
 articulated. He is a member of the world who 
 exploits his membership instead of serving with 
 it. When we are converted we are not converted 
@@ -3616,14 +3576,14 @@ belong to. Before God that race is an organic
 unity. It is not a mere mass of atoms joined 
 together by various arbitrary relations, sympathies, 
 and affinities. Hence, as the race before 
-\marginpar{\centering \footnotesize 122}
+\marginpar{122}
 God is one, a personal God is able to do for the 
 race some one thing which at the same time is 
 good for every person in it. 
 
-\begin{center}
+\subsection*{
 \S
-\end{center}
+}
 
 But now, if the race is a unity, where does its 
 unity lie? Does it lie in our elementary affections 
@@ -3648,7 +3608,7 @@ conscience? What ground have you for a social
 religion? The most universal God is one that 
 goes there, not to the heart in the sense of 
 affections, but to the conscience. The great 
-\marginpar{\centering \footnotesize 123}
+\marginpar{123}
 motive for missions of every high kind is not 
 sentiment, but salvation. It is dangerous to 
 take your theology from poets and literary 
@@ -3678,7 +3638,7 @@ rent in a tissue, a gap in a process, which the
 same process goes on to heal into a scar. The 
 moral law differs from all natural law in having 
 in it a demand, a claim, an "ought" of a 
-\marginpar{\centering \footnotesize 124}
+\marginpar{124}
 universal kind. It is all of one piece. We use the 
 word "law" in a loose kind of way. We apply 
 the same word to gravitation and to the moral 
@@ -3707,7 +3667,7 @@ It is Himself in holy, changeless personality
 that says, "Thou shalt." Then the claim can 
 only be honoured by personality of acknowledgment. 
 But what does that mean? Some 
-\marginpar{\centering \footnotesize 125}
+\marginpar{125}
 confession, some compunction---"I have sinned?" 
 That is a poor acknowledgment of God's holiness. 
 It was neither in word nor in feeling that 
@@ -3736,7 +3696,7 @@ is no confession of the holiness of God. God,
 truly, might and does assert His power upon 
 our defiance by making us suffer. But do you 
 think any holiness, any loving holiness, could 
-\marginpar{\centering \footnotesize 126}
+\marginpar{126}
 be satisfied with making the offender suffer? 
 There is only one thing that can satisfy the 
 holiness of God, and that is holiness---adequate 
@@ -3765,7 +3725,7 @@ personal holiness upon the scale of the race,
 upon the universal scale of the sinful race, and 
 upon the eternal scale of the holy God who was 
 wounded. It is not enough that the eternal 
-\marginpar{\centering \footnotesize 127}
+\marginpar{127}
 validity of the holy law should be declared as 
 some prophet might arise and declare it, with 
 power to make the world admire, as the great 
@@ -3794,7 +3754,7 @@ of judgment. In the Old Testament the final
 coming of the Great Salvation was always connected 
 with a great judgment, which was 
 therefore not a terror, as we view it, but the 
-\marginpar{\centering \footnotesize 128}
+\marginpar{128}
 grandest hope. If the essence of God is that He 
 should be holy, it is equally essential that He 
 should judge. If He sets up actual holiness it 
@@ -3823,7 +3783,7 @@ of God is making a great contribution to the
 degradation of man. We need a religion which 
 decides the eternal destiny of man; and unless 
 holiness were practically and adequately established---not
-\marginpar{\centering \footnotesize 129} % Word not is on p. 129
+\marginpar{129} % Word not is on p. 129
 merely recognised and eulogised, 
 but established---there could be no real, deep, 
 permanent change in the world or the sinner. 
@@ -3836,9 +3796,9 @@ belittle the holiness of God; and from a reduced
 holiness no salvation could come, nor 
 could human dignity remain. 
 
-\begin{center}
+\subsection*{
 \S
-\end{center}
+}
 
 Here, perhaps, you want to ask me what I 
 mean exactly by saying that the judgment-death 
@@ -3855,7 +3815,7 @@ of Christ's "public person." He presented
 before God a race He created for holiness. Remember 
 that the very nature of our faith in 
 Christ is union with Him. The kingdom is set 
-\marginpar{\centering \footnotesize 130}
+\marginpar{130}
 by Christians being united with the work, the 
 victory, the obedience, the holiness of the King. 
 Christ, in His victorious death and risen life, 
@@ -3884,10 +3844,10 @@ in His Spirit He becomes the eternal guarantee
 of the historical consummation of all things 
 some great day. I return to this later. 
 
-\marginpar{\centering \footnotesize 131}
-\begin{center}
+\marginpar{131}
+\subsection*{
 \S
-\end{center}
+}
 
 Sometimes, when I have been talking about 
 this claim of God's holiness, a critic has said: 
@@ -3916,7 +3876,7 @@ back when we wept, and speak thus: "Let us
 say no more about it. You did very wrong, and 
 you have suffered for it, and I; but let us forget 
 it now you have come back." We should not 
-\marginpar{\centering \footnotesize 132}
+\marginpar{132}
 respect that. We should go on, as servants do in 
 the case I have named, to take more liberties 
 still. He would be a God who only talked His 
@@ -3945,7 +3905,7 @@ place, at some point, on a due scale and with adequate
 depth. That was what took place in the 
 Cross of Christ. The idea of judgment is not 
 complete without the idea of a crisis, a day of 
-\marginpar{\centering \footnotesize 133}
+\marginpar{133}
 judgment. Now the Cross of Christ was the 
 world's great day of judgment, the crisis of all 
 crises for history. The holy love of God yearning 
@@ -3974,7 +3934,7 @@ up a racial salvation, which our souls enter
 upon by faith. It is by Himself in His changeless 
 love and pity that it is set up. It is not the 
 Son's suffering and death, but His holy obedience 
-\marginpar{\centering \footnotesize 134}
+\marginpar{134}
 to both that is the satisfying thing to God, the 
 holiness of God the Son. In a sense, a great 
 solemn sense, it is an exercise of God's absolute 
@@ -4003,7 +3963,7 @@ But king and judge are equally
 inseparable, especially if you take the great Old 
 Testament idea. Christ submitted with all His 
 heart to God's holy final judgment on the race. 
-\marginpar{\centering \footnotesize 135}
+\marginpar{135}
 He did not view it as an unfortunate incident 
 in His life. He did not treat it as though it 
 happened to drop upon Him. But He treated 
@@ -4033,14 +3993,14 @@ punishment as an indirect and collateral necessity,
 like the surgical pains that make room for 
 nature's curing power. You will then find 
 nothing morally repulsive in the idea of judgment
-\marginpar{\centering \footnotesize 136}
+\marginpar{136}
 effected in and on Christ, any more than 
 in the thought that the kingdom was set up 
 in Him. 
 
-\begin{center}
+\subsection*{
 \S
-\end{center}
+}
 
 To conclude, then, God could only justify man 
 before Him by justifying Himself and His holy 
@@ -4067,7 +4027,7 @@ sure that His would not. It is the holiness in
 God's love that is the eternal, stable, unchangeable 
 element in it---the holiness secured for 
 history and its destiny in the Cross. It is only 
-\marginpar{\centering \footnotesize 137}
+\marginpar{137}
 the unchangeable that we could trust; and 
 there alone we find it. If we only loved the 
 love of God, we should have no stable, eternal, 
@@ -4078,7 +4038,7 @@ are safe with an everlasting salvation.
 \chapter{The Cross the Great Confessional} 
 \markboth{The Cross}{The Great Confessional}
 %\chaptermark{The Cross the Great Confessional}
-%\marginpar{\centering \footnotesize 141}
+%\marginpar{141}
 
 %V 
 
@@ -4101,7 +4061,7 @@ do speak, quite sincerely, with great devotion
 and warmth and beauty, about Christ, and 
 about many of the ideas that are associated 
 with apostolic Christianity. All the same, they 
-\marginpar{\centering \footnotesize 141}
+\marginpar{141}
 are strongly and sometimes even violently, 
 antagonistic to that redemption which is the 
 very centre of the Christian faith; and they 
@@ -4130,7 +4090,7 @@ those of Christianity takes effect. Therefore it
 is part of the duty of the Church, in certain 
 sections and on certain occasions, to be less 
 concerned about the effect of the Gospel upon 
-\marginpar{\centering \footnotesize 142}
+\marginpar{142}
 the individual immediately, or on the present 
 age, and to look ahead to what may be the 
 result of certain changes in the future. God 
@@ -4160,7 +4120,7 @@ individual amid much failure of his faith;
 there is a vicarious faith; but what is to 
 carry the Church if its faith fail? Remove 
 concern from these things, and the effect of 
-\marginpar{\centering \footnotesize 144}
+\marginpar{144}
 the collective message of the Church to the 
 great world becomes undermined. Then the 
 world must look somewhere else than to the 
@@ -4190,7 +4150,7 @@ necessary in the world---the standard of what
 will immediately pay, or promptly tell. It is, 
 of course, a great thing to go back upon the 
 history of Christianity, and to point out to ourselves 
-\marginpar{\centering \footnotesize 145}
+\marginpar{145}
 and to our people the great things that 
 Christianity has done in the course of history. 
 But you cannot rest Christianity upon that. 
@@ -4216,14 +4176,14 @@ things of God as they are revealed to us by the
 Holy Spirit, through His inspired apostles, in 
 Christ and His Cross. 
 
-\begin{center}
+\subsection*{
 \S
-\end{center}
+}
 
 From what I have said you will be prepared 
 to hear me state that reconciliation is effected 
 by the representative sacrifice of Christ crucified;
-\marginpar{\centering \footnotesize 146}
+\marginpar{146}
 fied; by Christ crucified as the representative of 
 God on the one hand and of Humanity, or the 
 Church, on the other hand. Also it was by 
@@ -4252,7 +4212,7 @@ in terms. And it cannot be true in the sense
 that Christ was in our stead in such a way as 
 to exclude and exempt us. The sacrifice of 
 Christ, then, was penal not in the sense of God 
-\marginpar{\centering \footnotesize 147}
+\marginpar{147}
 so punishing Christ that there is left us only 
 religious enjoyment, but in this sense. There is 
 a penalty and curse for sin; and Christ consented 
@@ -4281,7 +4241,7 @@ always well pleased with Him is an outrageous
 thing. Calvin himself repudiates the idea. But 
 we may say that Christ did, at the depth of that 
 great act of self-identification with us when He 
-\marginpar{\centering \footnotesize 148}
+\marginpar{148}
 became man, He did enter the sphere of sin's 
 penalty and the horror of sin's curse, in order 
 that, from the very midst and depth of it, His 
@@ -4291,9 +4251,9 @@ of the bitter sea, and sweeten all. He justified
 God in His judgment and wrath. He justified 
 God in this thing. 
 
-\begin{center}
+\subsection*{
 \S
-\end{center}
+}
 
 So the act of Christ had this twofold aspect. 
 On the one hand it was God offering, and on the 
@@ -4314,7 +4274,7 @@ and critics were not slow to point them
 out. How could Christ in any real sense confess 
 a sin, even a racial sin, with whose guilt He 
 had nothing in common? Now that is rather a 
-\marginpar{\centering \footnotesize 149}
+\marginpar{149}
 serious criticism if the confession of sin were 
 the first charge upon either Christ or us, if the 
 confession of human sin were the chief thing 
@@ -4343,7 +4303,7 @@ sense, not of mere conduct, but in the great
 personal sense in which life contains conduct 
 and transcends death. Christ confessed not 
 merely human sin---which in a certain sense, 
-\marginpar{\centering \footnotesize 150}
+\marginpar{150}
 indeed, He could not do---but He confessed God's 
 holiness in reacting mortally against human sin, 
 in cursing human sin, in judging it to its very 
@@ -4372,7 +4332,7 @@ Him as if He were sin; He did not view Him as
 sinful. That is quite another matter. God made 
 Him to be sin---it does not say He made Him sinful. 
 God lovingly treated Him as human sin, and 
-\marginpar{\centering \footnotesize 151}
+\marginpar{151}
 with His consent judged human sin in Him and 
 on Him. Personal guilt Christ could never confess. 
 There is that in guilt which can only be 
@@ -4402,13 +4362,13 @@ So also of holiness, there is a confession of
 holiness which can only be made by God, the 
 Holy. If God's holiness was to be fully confessed, 
 in act and deed, in life, and death, and 
-\marginpar{\centering \footnotesize 152}
+\marginpar{152}
 love transcending both, it can only be done by 
 Godhead itself. 
 
-\begin{center}
+\subsection*{
 \S
-\end{center}
+}
 
 Therefore we press the words to their fullness 
 of meaning: "God was in Christ reconciling," 
@@ -4435,7 +4395,7 @@ holiness in the judgment of sin. The
 confession also had to be made in life and action, 
 as the sin was done. That is to say, it had to be 
 made religiously and not theologically, by an 
-\marginpar{\centering \footnotesize 153}
+\marginpar{153}
 experience and not an utterance. A verbal 
 confession, however sincere, could not fully own 
 an actual sin. If we sin by deed we must so 
@@ -4465,7 +4425,7 @@ with His whole personal life and action. And
 that means not only His earthly life previous to 
 the Cross, but His whole celestial life from the 
 beginning, and to this hour, and to all eternity. 
-\marginpar{\centering \footnotesize 154}
+\marginpar{154}
 The death of Christ is the central point of 
 eternity as well as of human history. His own 
 eternal life revolves on it. And we shall never 
@@ -4494,7 +4454,7 @@ New Testament as a whole, deeply as they prize
 it in parts. They say that the apostolic views 
 and interpretations of Christ's work may have 
 been all very well for people who knew no 
-\marginpar{\centering \footnotesize 155}
+\marginpar{155}
 better than men did at so early a period, but 
 we are now a long way beyond that, and 
 we must re-edit the New Testament theology, 
@@ -4508,9 +4468,9 @@ any sense of their appalling dimensions, and
 of the huge thing that is being so ignorantly 
 done. (See note at the end of this lecture.) 
 
-\begin{center}
+\subsection*{
 \S
-\end{center}
+}
 
 
 The apostles, I say, never separated reconciliation 
@@ -4527,7 +4487,7 @@ But there were some sins that never could be
 atoned for, what are described as sins with 
 a high hand, presumptuous sins, deliberate, 
 defiant sins, as distinct from sins of ignorance 
-\marginpar{\centering \footnotesize 156}
+\marginpar{156}
 or weakness, when a man so identified himself 
 with his sin that he became inseparable from 
 it. The man guilty of them was put outside 
@@ -4552,14 +4512,14 @@ mankind was absorbed, and the sin of sins
 now was fixed refusal of that Grace. The 
 Cross bought up all other debts, so to say. 
 
-\begin{center}
+\subsection*{
 \S
-\end{center}
+}
 
 To return to my old point. The objection to 
 speaking of Christ's death as penalty is twofold. 
 God could not punish One with whom 
-\marginpar{\centering \footnotesize 157}
+\marginpar{157}
 He was always well pleased. Consequently 
 Christ could not suffer punishment in the true 
 sense of the word without having a guilty 
@@ -4592,7 +4552,7 @@ was not its amount or acuteness, but its
 obedience, its sanctity. 
 
 
-\marginpar{\centering \footnotesize 158}
+\marginpar{158}
 These pathetic ways of thinking about Christ 
 regard Him too much as a mere individual 
 before God. They do not satisfy if Christ's 
@@ -4621,13 +4581,13 @@ its natural genius. Christ's identity was
 not natural or created identity, but the self-identification 
 of the Creator. Everything turns 
 upon this---whether Christ was a created being, 
-\marginpar{\centering \footnotesize 159}
+\marginpar{159}
 however grand, or whether He was of increate 
 Godhead. 
 
-\begin{center}
+\subsection*{
 \S
-\end{center}
+}
 
 As Head of the human race by this voluntary 
 self-identification with it, Christ took the 
@@ -4654,7 +4614,7 @@ living union with Christ. And we then rise
 above purity---for purity is only shamed by sin---we 
 rise to holiness, which is burdened with sin 
 and all its load. How much more than pure 
-\marginpar{\centering \footnotesize 160}
+\marginpar{160}
 Christ was! How much fuller of meaning is 
 such a word as "holy" or "holiness" than either 
 "pure" or "purity." Purity is shamed by human 
@@ -4683,14 +4643,14 @@ Christ's Cross in detail. The final judgment,
 the absolute judgment, the crucial judgment 
 for the race took place in principle on the 
 Cross of Christ. Sin has been judged finally 
-\marginpar{\centering \footnotesize 161}
+\marginpar{161}
 there. All judgment is given to the Son in 
 virtue of His Cross. All other debts are bought 
 up there. 
 
-\begin{center}
+\subsection*{
 \S
-\end{center}
+}
 
 It is not simply that in the Cross of Christ 
 all punishment was shown to be corrective. A 
@@ -4716,7 +4676,7 @@ much comforted by their religion. You can do
 something with a hardened sinner. He can be 
 broken to pieces. But I do not know what 
 you can do with a viscous saint, with those 
-\marginpar{\centering \footnotesize 162}
+\marginpar{162}
 who are wrapped in the wool, soaked in the 
 comfort of their religion, and tanned to leather, 
 soft and tough as a glove, by its bitterest baptisms. 
@@ -4731,9 +4691,9 @@ so tough that even the grace of God
 cannot get through it, or a substance so flaccid 
 that it cannot be handled. 
 
-\begin{center}
+\subsection*{
 \S
-\end{center}
+}
 
 I find it convenient, you observe, to distinguish 
 between punishment and penalty. A 
@@ -4748,7 +4708,7 @@ that would suggest that He was punished
 in connection with His salvation. It robs 
 the whole act of ethical value to say so. 
 Penalty is made to honour God in the Cross of 
-\marginpar{\centering \footnotesize 163}
+\marginpar{163}
 Christ, and thus it becomes a blessing to us. 
 Not that our punishment is turned to good 
 account in its subjective results upon us, but 
@@ -4777,7 +4737,7 @@ He answered the judgment of God with a grand
 affirmative act. The willing acceptance of final 
 judgment was for Jesus the means presented by 
 God for effecting human reconciliation and the 
-\marginpar{\centering \footnotesize 164}
+\marginpar{164}
 Divine Kingdom. The essence of all sacrifice, 
 which is self-surrender to God, was lifted out of 
 the Old Testament garb of symbolism, and was 
@@ -4807,13 +4767,13 @@ between the old view and the new by saying
 that one emphasises substitutionary expiation 
 and the other emphasises solidary reparation, 
 consisting of due acknowledgment of God's 
-\marginpar{\centering \footnotesize 165}
+\marginpar{165}
 holiness, and the honouring of that and not of 
 His honour. 
 
-\begin{center}
+\subsection*{
 \S
-\end{center}
+}
 
 Now let me pass as I close to-day to two or 
 three points I want specially to emphasise. 
@@ -4841,15 +4801,15 @@ or downward---downward into antagonism, into
 deadly hate against God, something Satanic; or 
 upwards it passes into acceptance of God's mercy 
 by faith, and all its blossom and fruit, its joy 
-\marginpar{\centering \footnotesize 166}
+\marginpar{166}
 and peace in the Holy Ghost. The Reformers 
 were perfectly right. It is only our dull experience 
 and preoccupied vision which prevent 
 us seeing that it is so. 
 
-\begin{center}
+\subsection*{
 \S
-\end{center}
+}
 
 Then I should like to call attention to this 
 value in such a cross. It is only the judgment 
@@ -4873,7 +4833,7 @@ against you. Then you magnify that to God's
 charge. If your heart condemn you, His condemnation 
 is greater than that of your condemning 
 heart. Do you consider His conscience? 
-\marginpar{\centering \footnotesize 167}
+\marginpar{167}
 His conscience has to be pacified as well as His 
 heart indulged. And if His conscience be not 
 met, ours is not sure. Has His conscience been 
@@ -4902,7 +4862,7 @@ be the true grace of God. Surely the grace of
 God cannot stultify our human conscience like 
 that! So we are haunted by mistrust, unless 
 conscience be drowned in a haze of heart. We 
-\marginpar{\centering \footnotesize 168}
+\marginpar{168}
 have always the feeling and fear that there is 
 judgment to follow. How may I be sure that I 
 may take the grace of God seriously and finally, 
@@ -4931,7 +4891,7 @@ prayer for His murderers, or the closing sigh of
 victory in the midst of that judgment, vouches 
 for ever to this, that it is the same holy will 
 which judges man's wickedness and also loves us 
-\marginpar{\centering \footnotesize 169}
+\marginpar{169}
 and gives His Son for a propitiation for us. 
 Only that holiness which is changeless in its 
 judgment could be changeless also in grace. 
@@ -4961,13 +4921,13 @@ not His own Son---His own self. His severity
 of conscience becomes at the same moment our 
 security of salvation. And the more conscience 
 preaches the changelessness of the judging God, 
-\marginpar{\centering \footnotesize 170}
+\marginpar{170}
 the more it preaches the same changelessness in 
 the grace of Christ. 
 
-\begin{center}
+\subsection*{
 \S
-\end{center}
+}
 
 There is another consequence. Only the 
 eternal Reconciler, the High Priest, can 
@@ -4995,10 +4955,10 @@ by His work from heaven that we appropriate
 His work upon earth. He guarantees our perfection 
 as well as our redemption. 
 
-\marginpar{\centering \footnotesize 171}
-\begin{center}
+\marginpar{171}
+\subsection*{
 \S
-\end{center}
+}
 
 The last step. It is only the atoning reconciliation 
 of a whole world that guarantees the 
@@ -5027,7 +4987,7 @@ new earth. It intends the regeneration of
 human society as a whole. Christ is the 
 Saviour of the world, who was also the agent 
 of its creation. The Creator has not let His 
-\marginpar{\centering \footnotesize 172}
+\marginpar{172}
 world get out of hand for good and all. That 
 is to say, our faith is social and communal in 
 its nature. We must have a social gospel. And 
@@ -5049,9 +5009,9 @@ this faith in trust for the whole world. Each
 one of us is saved only by the act and by the 
 Person that saved the whole world. 
 
-\begin{center}
+\subsection*{
 \textsc{Note to p. 153.} 
-\end{center}
+}
 
 In some cases it seems due to congenital defect. An 
 able member of the "New Theology" group was conversing 
@@ -5065,7 +5025,7 @@ do not understand it."
 \chapter{The Precise Problem To-Day} 
 \markboth{The Precise Problem To-Day}{The Precise Problem To-Day}
 %\chaptermark{The Precise Problem To-day}
-%\marginpar{\centering \footnotesize 175}
+%\marginpar{175}
 
 %VI 
 %THE PRECISE PROBLEM TO-DAY* 
@@ -5087,7 +5047,7 @@ and sorriest things, and it would have no
 right to go on. And if it were so with theology, 
 we should not only be distressed for Humanity, 
 but we should be sceptical about the Holy Spirit 
-\marginpar{\centering \footnotesize 176} 
+\marginpar{176} 
 in the Church. It could be the Church of 
 no Holy Spirit if those who translated its 
 life into thought did not offer to posterity a 
@@ -5118,7 +5078,7 @@ co-workers left off. He must start \textit{ab ovo}. He
 must do over again for himself what they have 
 conspired to do better. He risks "being a fool 
 at first hand." He wastes himself criticising 
-\marginpar{\centering \footnotesize 177}
+\marginpar{177}
 what has long been dropped, and slaying the 
 long-time slain. He throws away effort in 
 establishing what the competent have agreed 
@@ -5148,7 +5108,7 @@ less, it is well that we should teach them at
 the outset to take up the question where they 
 find it, to begin where their best predecessors 
 left off, to work upon results, and to carry 
-\marginpar{\centering \footnotesize 178}
+\marginpar{178}
 forward the subject in the train of its evolution 
 from the great and growing past. Let us couple 
 up with the past, and repay its gifts by fructifying 
@@ -5157,9 +5117,9 @@ thought, and concentrate it upon the precise
 question which previous thinkers have left us 
 to solve. 
 
-\begin{center}
+\subsection*{
 \S
-\end{center}
+}
 
 There is, thus, another thing we have to do. 
 We have to try to find a due place for those views 
@@ -5182,7 +5142,7 @@ and denied sometimes with a scorn unjustified
 by either the mental acumen or moral dignity 
 of the critic. 
 
-\marginpar{\centering \footnotesize 179}
+\marginpar{179}
 But in spite of this over-pressure, and the 
 occasional insolence that goes with ignorance, 
 it remains our duty to find a proper place in 
@@ -5202,9 +5162,9 @@ reconciliation or atonement by a sinless Christ,
 who could not possibly present before God a 
 repentance of that kind. 
 
-\begin{center}
+\subsection*{
 \S
-\end{center}
+}
 
 There are certain results which, it may be 
 said, we have definitely reached in correction 
@@ -5214,7 +5174,7 @@ modern, and they owe much to Schleiermacher,
 Ritschl, McLeod Campbell, Maurice and others; 
 but they have also been shown to be scriptural, 
 by a new, objective and scientific investigation 
-\marginpar{\centering \footnotesize 180}
+\marginpar{180}
 of what the Bible has to say on the subject. 
 When we have brought the long history of 
 the question up to date, balanced the books, 
@@ -5246,7 +5206,7 @@ reveals and puts into historic action the changeless
 grace of God. (2) It reveals and establishes 
 His holiness, and therein also the sinfulness of 
 sin. And (3) it exhibits a Humanity in perfect 
-\marginpar{\centering \footnotesize 181}
+\marginpar{181}
 tune with that will of God. And it does more 
 than exhibit these things---it \textit{sets them up}, grace, 
 holiness, and the new Humanity in its Head. 
@@ -5277,7 +5237,7 @@ by God is unthinkable. His penalty was not
 punishment, because it was dissociated from 
 the sense of desert. Whatever we mean by 
 atonement must be interpreted in that sense. 
-\marginpar{\centering \footnotesize 182}
+\marginpar{182}
 And judgment is a much better word than 
 either penalty or punishment. 
 
@@ -5308,7 +5268,7 @@ our power; not merely our rescuer but
 our new life. His work is in the same act 
 reclamation as well as rescue. 
 
-\marginpar{\centering \footnotesize 183}
+\marginpar{183}
 6. Another thing may perhaps be taken as 
 recognised in some form by the main line of 
 judicious advance in our subject. The work of 
@@ -5338,7 +5298,7 @@ source of His suffering was not the sight of
 human sin, and it was not a general holiness 
 in Him. It was not the quivering of the saint's 
 purity at the touch of evil. But it was the 
-\marginpar{\centering \footnotesize 184}
+\marginpar{184}
 suffering of One who touched sin \textit{as the Redeemer}. 
 He would not have suffered for sin 
 as He did, had He not faced it as its destroyer. 
@@ -5369,7 +5329,7 @@ done by the native action of a personality moral
 in its nature and methods, moral to the pitch 
 of the Holy. 
 
-\marginpar{\centering \footnotesize 185}
+\marginpar{185}
 It is an immense gain thus to construe 
 Christ's work as that of a moral personality 
 instead of a heavenly functionary. It brings 
@@ -5388,9 +5348,9 @@ possible for us what my last lecture will attempt
 to indicate a---unitary view of His whole work 
 and person. 
 
-\begin{center}
+\subsection*{
 \S
-\end{center}
+}
 
 7. After these great modifications and gains, 
 we have cleared the ground to ask with some 
@@ -5402,7 +5362,7 @@ what He did? The permanent thing in Christianity
 must be that which gives it its chief 
 value to God. We are now beyond the crude 
 alternative that so easily besets us, "Did Christ's 
-\marginpar{\centering \footnotesize 186}
+\marginpar{186}
 work bear upon God or on man?" Neither alone 
 would be a true Reconciliation. Neither Orthodoxy 
 nor Socinianism has it. But we have to ask 
@@ -5432,7 +5392,7 @@ by Christ's work on the Cross. Moreover, that
 work was done for the whole of mankind, and 
 was complete even for those who as yet make no 
 response. And, besides, that first alternative is 
-\marginpar{\centering \footnotesize 187}
+\marginpar{187}
 a view that seems to have the letter of Scripture 
 with it. It does look as if we could not have full 
 security except by trust of an objective something, 
@@ -5462,7 +5422,7 @@ is not made by the guilty but the Guiltless, who
 is not directly affected by the connection between 
 sin and suffering. A finished religion 
 would then be set up without the main thing---the 
-\marginpar{\centering \footnotesize 188}
+\marginpar{188}
 acknowledgment by the guilty. That acknowledgment, 
 that repentance, would then be 
 outside the complete act, and would be at best 
@@ -5478,9 +5438,9 @@ it not already include the thing done upon men?.
 Does not Christ's confession of God's holiness 
 include man's confession of his sin? 
 
-\begin{center}
+\subsection*{
 \S
-\end{center}
+}
 
 Let us return to that idea of the moral order 
 which is at the bottom of this objective theory. 
@@ -5494,7 +5454,7 @@ condition of forgiveness than repentance. This
 is so; and it is all very well, we have seen, for 
 individual cases. But we have to deal, as Christ 
 at last had to deal, with the forgiveness of a 
-\marginpar{\centering \footnotesize 189}
+\marginpar{189}
 world, the pardon of solidary sin. And we 
 need to be sure, as Christ alone with His insight 
 could be sure, that the repentance is true and 
@@ -5524,7 +5484,7 @@ conviction and admission, but it must be a
 practical confession, as practical as the sin. It 
 must place itself as if it were active sin under 
 the reaction of the Divine holiness; it must be 
-\marginpar{\centering \footnotesize 190}
+\marginpar{190}
 made sin. That is, it must accept judgment as 
 the only adequate acknowledgment of the holy 
 God in a sinful world; it must allow His holy 
@@ -5554,16 +5514,16 @@ with us which also makes Him such a moral
 power upon us and in us. His creative regenerative 
 action on us is a part of that same 
 moral solidarity which also makes His acceptance
-\marginpar{\centering \footnotesize 191}
+\marginpar{191}
 of judgment stand to our good, and His 
 confession of God's holiness to be the ground 
 of ours. The same stroke on the one Christ 
 went upward to God's heart and downward 
 to ours. 
 
-\begin{center}
+\subsection*{
 \S
-\end{center}
+}
 
 Is this not clear? Christ could make no due 
 confession of holiness for us in judgment if 
@@ -5587,7 +5547,7 @@ contribution to forgiveness? Can it be included
 in the Divine ground of forgiveness in a guiltless 
 Christ? Repentance is certainly a condition 
 of forgiveness. But Christ could not repent. 
-\marginpar{\centering \footnotesize 192}
+\marginpar{192}
 How then could He perfectly meet the conditions 
 of salvation? The answer is that our 
 repentance was latent in that holiness of His 
@@ -5613,14 +5573,14 @@ ourselves that we are driven to accept forgiveness
 from the hands of the very love which 
 our sins doomed to a curse. 
 
-\begin{center}
+\subsection*{
 \S
-\end{center}
+}
 
 What Christ offers to God is, therefore, not 
 simply an objective satisfaction outside His 
 revolutionary effect on the soul of man in the 
-\marginpar{\centering \footnotesize 193}
+\marginpar{193}
 way of faith, repentance, and our whole sanctification. 
 As the very judgment He bore for 
 us is relevant to our sin by His moral solidarity 
@@ -5649,7 +5609,7 @@ holiness of His in which God is always
 well-pleased. All His obedience and holiness 
 is not only fair and beloved of God, but it is 
 also great with the penitent holiness of the race 
-\marginpar{\centering \footnotesize 194}
+\marginpar{194}
 He sanctifies. Our faith is already present in His 
 oblation. Our sanctification is already presented 
 in our justification. Our repentance is already 
@@ -5660,9 +5620,9 @@ the offering in His death; and then it raises
 us in newness of life to a fellowship of His 
 resurrection. 
 
-\begin{center}
+\subsection*{
 \S
-\end{center}
+}
 
 He is thus not only the pledge to us of God's 
 love but the pledge to God of our sure response 
@@ -5682,7 +5642,7 @@ and more religious meaning. It is to be taken
 into His secret life. It is a mystic incorporation 
 into Christ's death and resurrection as the 
 standing act of spiritual existence. We are 
-\marginpar{\centering \footnotesize 195}
+\marginpar{195}
 baptized into His death, and not merely into 
 dying like Him. We do not echo His resurrection, 
 we share it. As His trophies we become 
@@ -5712,7 +5672,7 @@ race. For no martyr as such is sure of the
 future. It is easier to forget all the martyrs 
 than the Saviour; and their power fades with 
 time, while His grows with the ages. With the 
-\marginpar{\centering \footnotesize 196}
+\marginpar{196}
 martyr's death we can link many admirable 
 reflections, exhortations, and even inspirations. 
 What it does not give us is the new and Eternal 
@@ -5723,7 +5683,7 @@ purpose for the world.
 \markboth{The Threefold Cord}{The Threefold Cord}
 %\chaptermark{The Threefold Cord}
 
-%\marginpar{\centering \footnotesize 199}
+%\marginpar{199}
 %VII 
 %THE THREEFOLD CORD 
 
@@ -5752,7 +5712,7 @@ third marks the Modern Church.
 And if you fall back upon the New Testament, 
 where all the subsequent development of the 
 Church is in the germ, as a philosophy might be 
-\marginpar{\centering \footnotesize 200}
+\marginpar{200}
 packed in a phrase, you will find those three 
 strands wonderfully and prophetically entwined 
 in 1 Cor. i. 30, where it is said that Christ is 
@@ -5782,7 +5742,7 @@ as Christ, and so absolute as the God who acted
 in Christ. Yet we must strive after such a 
 view, by the very nature of our faith. A mere 
 composite or eclectic theology means a distracted 
-\marginpar{\centering \footnotesize 201}
+\marginpar{201}
 faith. A creed just nailed together means 
 Churches that cannot draw together. We cannot, 
 at least the Church cannot, rest healthily 
@@ -5812,7 +5772,7 @@ This principle (I hope to show) co-ordinates
 the various aspects which have been 
 distorted by isolation. This one action of the 
 holy Saviour's total person was, on its various 
-\marginpar{\centering \footnotesize 202}
+\marginpar{202}
 sides, the destruction of evil, the satisfaction of 
 God, and the sanctification of men. And it is in 
 this moral medium of holiness (if I may so say) 
@@ -5843,7 +5803,7 @@ the second the complete satisfaction of God.
 The only complete satisfaction that can be made 
 to a holy God from the sinful side is the sinner's 
 restored obedience, his return to holiness. Now, 
-\marginpar{\centering \footnotesize 203}
+\marginpar{203}
 the cheap and superficial way of putting that is 
 to say that penitent amendment is the only 
 satisfaction we can give to a grieved God. But 
@@ -5872,7 +5832,7 @@ satisfied He must be; else the freedom of grace
 becomes but an arbitrary and non-holy thing, 
 a thing instinctive to the divine nature instead 
 of a victory of the divine will. Also consider 
-\marginpar{\centering \footnotesize 204}
+\marginpar{204}
 this: much of your difficulty in connection with 
 satisfaction will yield if you keep in view that 
 what we are concerned with is not the satisfaction 
@@ -5902,7 +5862,7 @@ critical situation, we have the whole native fullness
 of God blessed for ever, with men beneath 
 the shadow of His wing. The perpetual act of 
 holy God is a perpetual satisfaction or accord 
-\marginpar{\centering \footnotesize 205}
+\marginpar{205}
 between His nature and His will at every juncture, 
 and a satisfaction from His own infinite 
 holy resource---a Self-satisfaction. God is always 
@@ -5932,13 +5892,13 @@ suffering obedience. He could be satisfied and
 rejoiced only by the hallowing of His name, 
 by perfect and obedient answer to His holy 
 heart from amid conditions of pain, death, and 
-\marginpar{\centering \footnotesize 206}
+\marginpar{206}
 judgment. Holy obedience alone, unto death, 
 can satisfy the Holy Lord. 
 
-\begin{center}
+\subsection*{
 \S
-\end{center}
+}
 
 Now as to this obedience mark two things. 
 
@@ -5966,7 +5926,7 @@ obedience must be obedience from the race
 that rebelled. Its holiness must atone for its sin. 
 But how can that possibly be? Can it be by mere 
 amendment from us? Can we bring any amendment 
-\marginpar{\centering \footnotesize 207}
+\marginpar{207}
 to atone for the past and secure its 
 remission? Could the race do it? Solidary in 
 its sin by its moral unity, could the race earn a 
@@ -5992,13 +5952,13 @@ could satisfy holiness, how are we to know how
 much, how deep, repentance would do it, and 
 leave us sure it was done? 
 
-\begin{center}
+\subsection*{
 \S
-\end{center}
+}
 
 The holiness that atones, though it return 
 from the race that rebelled, must therefore be 
-\marginpar{\centering \footnotesize 208}
+\marginpar{208}
 the gift of the holiness atoned. For if holiness 
 could be satisfied by anything outside itself it 
 would not be absolutely holy. So if holiness can 
@@ -6027,7 +5987,7 @@ carries all our future holiness latent in it and to
 God's eye patent; because in His saving act He 
 is the creative power of which our new life is the 
 product. It is not only that Christ conquered 
-\marginpar{\centering \footnotesize 209}
+\marginpar{209}
 for Himself and emerged with His soul for a 
 prey, but, He being what He was, His victory 
 contained ours. If He died all died. It was 
@@ -6056,13 +6016,13 @@ for good and all was also the act which
 slowly masters the world in the extensive sense. 
 His moral and spiritual victory was so deep 
 and thorough that it gives Him power to subdue 
-\marginpar{\centering \footnotesize 210}
+\marginpar{210}
 other consciences to His holy self, world 
 without end. 
 
-\begin{center}
+\subsection*{
 \S
-\end{center}
+}
 
 There is an old word used in this connection 
 which there is much disposition at the present 
@@ -6089,7 +6049,7 @@ are hard to stretch to the measure of eternal
 things without breaking under us somewhere. 
 The word surety itself gives way at a great 
 strain---as does guarantee. Christ's function for 
-\marginpar{\centering \footnotesize 211}
+\marginpar{211}
 us was not simply an assurance to God, from one 
 who knew us well, that for all our aberrations 
 we were sound and could be trusted at bottom. 
@@ -6118,7 +6078,7 @@ in each other. As if God by this aid might be
 led to foresee that man would come to himself 
 in a faith and repentance distant but certain, 
 might credit it to him in advance, and might 
-\marginpar{\centering \footnotesize 212}
+\marginpar{212}
 pardon on that ground. That would destroy 
 grace. And it would give man the satisfaction 
 of satisfying God if He would but give him time 
@@ -6140,9 +6100,9 @@ Eternal Son of Holy God, can offer Him a holiness
 which creates and includes that of the race, 
 and does not simply prophesy it. 
 
-\begin{center}
+\subsection*{
 \S
-\end{center}
+}
 
 We might put it thus: Christ alone in His 
 sinless perfection can feel all God's holiness in 
@@ -6151,7 +6111,7 @@ confess and honour it. No sinful man could do
 that; and therefore no sinful man could duly 
 repent. The value of repentance is always in 
 proportion to the sense of God's holiness. To 
-\marginpar{\centering \footnotesize 213}
+\marginpar{213}
 confess that holiness is the great postulate in 
 order to confess sin. And the race could duly 
 confess its sin and repent only if there arose in it 
@@ -6181,7 +6141,7 @@ xvii. 19---and His complete victory over
 the evil power in a life-experience of moral 
 conflict. 
 
-\marginpar{\centering \footnotesize 214}
+\marginpar{214}
 You wish perhaps here to ask me this question: 
 Is then the sanctity of a Unitarian who rejects 
 any satisfaction by Christ, any atonement, as the 
@@ -6196,9 +6156,9 @@ and holy offering of Christ which He never ceases
 to see, however far it be beneath our conscious, 
 light. 
 
-\begin{center}
+\subsection*{
 \S
-\end{center}
+}
 
 When therefore we speak of Christ as our 
 Surety, we mean much more than would be 
@@ -6214,7 +6174,7 @@ hardly intelligible to a youthful or impressionist
 Christianity. The real ground of our forgiveness 
 is not our confession of sin, and not even 
 Christ's confession of our sin, but His agonised 
-\marginpar{\centering \footnotesize 215}
+\marginpar{215}
 confession of God's holiness, and its absorbing 
 effect on us. To be in grace we must be 
 found in Him. Our new penitent life is His 
@@ -6243,15 +6203,15 @@ due to His own act of self-identification and
 not to natural identity with us. We must take 
 quite seriously that supreme word of a "new 
 creation in Jesus Christ." We need not get 
-\marginpar{\centering \footnotesize 216}
+\marginpar{216}
 lost in discussing the metaphysic of it; but 
 we must have so tasted the new life that 
 nothing but the strongest word possible is just 
 to it. 
 
-\begin{center}
+\subsection*{
 \S
-\end{center}
+}
 
 Christ our New Creator! He was not simply 
 a new departure in the history of \textit{ethical civilisation}, 
@@ -6276,7 +6236,7 @@ height in holiness. By His moral treatment of
 our sinful case, which is our actual historic case, 
 we are taken into a share of His superhuman 
 life. That is our salvation. It is life and power 
-\marginpar{\centering \footnotesize 217}
+\marginpar{217}
 we need. It is to be made over again by the 
 Maker's redeeming hand. We are redeemed 
 \textit{from} the ban of sin's magic circle by the only 
@@ -6291,9 +6251,9 @@ His Church is what God looks on and is satisfied.
 We are, as a believing race, in the Son in whom 
 He is always well pleased. 
 
-\begin{center}
+\subsection*{
 \S
-\end{center}
+}
 
 Now what is it that has created so much difficulty 
 for the old Protestant doctrine? I mean 
@@ -6308,7 +6268,7 @@ the old Protestantism, as you know, was greatly
 exercised about the true relation between faith 
 and works. And it had to insist so strongly on 
 the sole value of faith in order to cope with 
-\marginpar{\centering \footnotesize 218}
+\marginpar{218}
 Rome that its later years fell into an excessive 
 dread of good works, lest there should be 
 ascribed to them saving effect. As a result faith 
@@ -6337,7 +6297,7 @@ real source of the Spirit is the Cross. It therefore
 detached faith from life in a way that has produced 
 the most unfortunate results, both in an 
 antinomianism within the Church, and in a 
-\marginpar{\centering \footnotesize 219}
+\marginpar{219}
 Socinian protest without, which was inevitable, 
 and so far valuable, but was equally extreme. 
 Faith was treated by the positive school then as a 
@@ -6349,9 +6309,9 @@ power either individually or socially.
 Its connection with love was accidental and not 
 necessary---as it must be, being faith in love. 
 
-\begin{center}
+\subsection*{
 \S
-\end{center}
+}
 
 Now, if we translate this experimental language 
 into theological, it means that they did 
@@ -6369,7 +6329,7 @@ the power to do works of love, but it was not
 driven to them so that it could do no other. 
 And this flaw in faith corresponded to a like 
 flaw in the reading of Christ's act which was 
-\marginpar{\centering \footnotesize 220}
+\marginpar{220}
 the object of faith. They treated the work of 
 Christ in a way far too objective. It was something 
 done wholly over our heads. There was 
@@ -6398,7 +6358,7 @@ to the subjective work of Christ; and we fall
 victims more and more to a weak religious subjectivism 
 which has the ethical interest but not 
 the moral note. We fall into a subjectivism 
-\marginpar{\centering \footnotesize 221} 
+\marginpar{221} 
 which is reflected in one aspect of Pragmatism 
 and overworks the principle contained in the 
 words, "By their fruits shall ye know them" 
@@ -6418,9 +6378,9 @@ proportion, to think together the various
 aspects of the Cross, and make them enrich 
 and not exclude one another. 
 
-\begin{center}
+\subsection*{
 \S
-\end{center}
+}
 
 The defect of the old view was, then, as I have 
 said, that it could not couple up justification 
@@ -6430,7 +6390,7 @@ guilt of sin delivered also from its power. And
 this was because in the justification too much 
 stress was laid upon the suffering; and suffering 
 in itself has no sanctifying power. You see how 
-\marginpar{\centering \footnotesize 222}
+\marginpar{222}
 our practical experience, when it is well noted, 
 provides our theological principles. We do 
 find that suffering by itself debases, and even 
@@ -6459,7 +6419,7 @@ had a capital solidarity with the race, and not
 merely an individual connection with it as a 
 member. So that it has been said that we 
 must explain and correct current ideas of substitutionary 
-\marginpar{\centering \footnotesize 223}
+\marginpar{223}
 expiation by the idea of solidary 
 reparation. The curse on man was the guilty 
 power of sin and its train---hitherto invincible. 
@@ -6481,9 +6441,9 @@ Satan in his first stage, assumed himself all the
 worst consequences of his revolt to spare the 
 other souls whom he had misled. 
 
-\begin{center}
+\subsection*{
 \S
-\end{center}
+}
 
 The truth is that Anselm, in spite of the 
 unspeakable service he did both to the faith 
@@ -6491,7 +6451,7 @@ and thought of his time and all time, yet put
 theology on a false track in this matter. He 
 had too much to say of a superethical tribute 
 paid to God's \textit{honour} by the composition of a 
-\marginpar{\centering \footnotesize 224}
+\marginpar{224}
 voluntary suffering. Our sin was compounded 
 rather than really atoned. He did not grasp the 
 sacrifice of Christ as made to God's \textit{holiness}; as 
@@ -6520,7 +6480,7 @@ by a statutory obedience, or by one private to
 Himself, which spectacle disposed God to bless 
 and sanctify man; but by presenting in the 
 compendious compass of His own person a 
-\marginpar{\centering \footnotesize 225}
+\marginpar{225}
 Humanity presanctified by the irresistible 
 power of His own creative and timeless work. 
 
@@ -6550,7 +6510,7 @@ Himself with man. It is a matter not so much
 of substitutionary expiation (which, as these 
 words are commonly understood, leaves us too 
 little committed), but of solidary confession and 
-\marginpar{\centering \footnotesize 226} 
+\marginpar{226} 
 praise from amid the judgment fires, where the 
 Son of God walks with the creative sympathy 
 of the holy among the sinful sons of men. It is 
@@ -6580,7 +6540,7 @@ is mere exchange of parts, in which one
 is excluded and immune. But the work of 
 Christ is inclusive and committal, by our continuity 
 of life with Him through the spirit in a 
-\marginpar{\centering \footnotesize 227}
+\marginpar{227}
 Church.\footnote{
 In His saving act He so became one with the race that the 
 new Humanity He set up arises in history as the company of 
@@ -6612,7 +6572,7 @@ that Christ died. He died as the result, as the
 finale, of the act by which He identified Himself 
 with us and emptied Himself from heaven. He 
 is our Head by divine right and not by election of 
-\marginpar{\centering \footnotesize 228}
+\marginpar{228}
 ours. Our representative, our surety He was---not 
 our choice illustration, not our mandatory 
 champion, not our moral deputy, not our friendly 
@@ -6633,9 +6593,9 @@ power of His, and not merely parallel with His,
 as if He were our firstfruits instead of our Sun. 
 %Note that firstfruits is a single word in the original text.
 
-\begin{center}
+\subsection*{
 \S
-\end{center}
+}
 
 The juristic aspect is a real element in Christ's 
 death. It has a moral core; and we cannot 
@@ -6645,7 +6605,7 @@ holiness of God which must be expressed in
 judgment and confessed from its midst. The 
 chief defect of the great revolution which began 
 in Schleiermacher and ended in Ritschl has 
-\marginpar{\centering \footnotesize 228}
+\marginpar{228}
 been that it allowed no place to that side of 
 Christ's work. And it is a defect that much 
 impoverishes the current type of religion, beclouds 
@@ -6675,7 +6635,7 @@ relation to legal demand rather than personal
 holiness---such \textit{satisfaction}, when isolated, does 
 not do justice to the aspect in which Christ was 
 triumphant over evil (\textit{redemption}) nor to the 
-\marginpar{\centering \footnotesize 230}
+\marginpar{230}
 aspect in which His work is regenerative for 
 mankind (\textit{sanctification}). And it tended to promote 
 the fatal notion that holiness could be 
@@ -6705,7 +6665,7 @@ views are dearer than life because bound up
 with their entrusted Gospel and their life 
 eternal. One of the most damnatory features 
 of popular theological liberalism is the violent 
-\marginpar{\centering \footnotesize 231}
+\marginpar{231}
 handling of what it calls orthodoxy, and its 
 total lack of spiritual flexibility and interpretative 
 sympathy---caused largely by the prior 
@@ -6734,7 +6694,7 @@ was eternal \textit{right}; and especially that it was
 right, not in reference to the claims of an evil 
 will, but in regard to those of a will perfectly 
 good. The days were certainly outgrown by this 
-\marginpar{\centering \footnotesize 232} 
+\marginpar{232} 
 juristic theology when there could be any such 
 talk as filled the early Church about dealing 
 with the rights Satan had won over man. 
@@ -6763,7 +6723,7 @@ in that it brought Christian belief into line
 with the ruling principles of society as it then 
 was. It is a view, moreover, which has shown 
 itself capable of inspiring some of the deepest, 
-\marginpar{\centering \footnotesize 233}
+\marginpar{233}
 sweetest, and most beneficent piety the world 
 has ever seen. Moreover, it had in it active 
 conditions of moral growth which broke 
@@ -6779,9 +6739,9 @@ we are now taught to read it in a Bible rediscovered
 and reconstrued by the Spirit's action 
 both in the faith and the criticism of the day. 
 
-\begin{center}
+\subsection*{
 \S
-\end{center}
+}
 
 Among these three aspects of Christ's work 
 some minds will be drawn by preference to 
@@ -6796,7 +6756,7 @@ of the spiritual life, and the preferential sympathies
 of the moral idiosyncrasy. And the 
 Church is enriched by the complementary 
 action of such diversities of ministry. But 
-\marginpar{\centering \footnotesize 234}
+\marginpar{234}
 what ought not to be encouraged is any tendency 
 on the part of those who prefer the 
 one line to deny the equal right of the others. 
@@ -6827,7 +6787,7 @@ less manifold, and no less the object for first-rate
 % "First-rate" is on the line break so I'm leaving the "-" in it. 
 intelligence than the lower objects of 
 experience. Faith in such a Saviour cannot 
-\marginpar{\centering \footnotesize 235}
+\marginpar{235}
 continue to live for either heart or conscience 
 if it is detached from mind. Nor can mind 
 submit to be warned off the supreme object of 
@@ -6849,10 +6809,10 @@ sentimentalised ethic is offered as religion.
 
 %ADDENDUM 
 
-%\marginpar{\centering \footnotesize 239}
-\begin{center}
+%\marginpar{239}
+\subsection*{
 \textsc{Note to Lecture IV.} 
-\end{center}
+}
 
 There is a point in pp. 118-9 where, in speaking freely, 
 I have spoken loosely, and I have expressed myself with 
@@ -6879,7 +6839,7 @@ to the action of the vast moral machine? Did He just
 become involved, as our rescuer, in the mechanism which 
 regulates ethical Humanity, using at times man's anger as 
 its agent? This mechanism might be there possibly without 
-\marginpar{\centering \footnotesize 240}
+\marginpar{240}
 the ordinance of a God that it should be so, or possibly 
 as the institution of a deist and distant God who calmly 
 watches His world spin with the motion He gave it. But 
@@ -6917,7 +6877,7 @@ putting Himself under it beside the men on whom it lay.
 That curse then---was it an infliction from God, which did 
 not lift, did not cease to be inflicted, even when the Son 
 put Himself in its way; or was it something that struck 
-\marginpar{\centering \footnotesize 241}
+\marginpar{241}
 Him only from men below and not from God above 
 at all? 
 
@@ -6956,7 +6916,7 @@ that takes part in that induration? Is that anger not as
 real as the superabounding grace? Are not both bound 
 up in one complex treatment of the moral world? When 
 a man piles up his sin and rejoices in iniquity, is God 
-\marginpar{\centering \footnotesize 242}
+\marginpar{242}
 simply a bystander and spectator of the process? Does 
 not God's pressure on the man blind him, urge him, 
 stiffen him, shut him up into sin, if only that he might be 
@@ -6994,7 +6954,7 @@ if God be in His law, as we now do believe Him to pervade
 His world? 
 
 The love of God is not more real than the wrath of God. 
-\marginpar{\centering \footnotesize 243}
+\marginpar{243}
 For He can be really angry only with those He loves. 
 And how can Absolute Love love without acting to save? 
 
@@ -7032,7 +6992,7 @@ sin, but a sense of the sinner's relation to the personal
 \textit{vis-\`{a}-vis} of an angry God. God never left Him, but He 
 did refuse Him His face. The communion was not broken, 
 but its light was withdrawn. He was forsaken but not 
-\marginpar{\centering \footnotesize 244}
+\marginpar{244}
 disjoined. He was insolubly bound to the very Father 
 who turned away and could not look on sin but to abhor 
 and curse it even when His Son was beneath it. How 
